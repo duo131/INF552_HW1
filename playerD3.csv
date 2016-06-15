@@ -1,0 +1,582 @@
+player_id,birth_year,birth_month,birth_day,birth_country,birth_state,name_first,name_last,weight,height,bats,throws,debut,debut_year,debut_ages,final_game,retired_year,retro_id,bbref_id,career_year,career_def
+hockide01,1970,4,2,USA,CA,Denny,Hocking,180,70,B,R,1993/9/10,1993,23,2005/9/28,,hockd001,hockide01,12.06,l
+womacto01,1969,9,25,USA,VA,Tony,Womack,160,69,L,R,1993/9/10,1993,24,2006/6/24,,womat001,womacto01,12.79,l
+jonesch06,1972,4,24,USA,FL,Chipper,Jones,210,76,B,R,1993/9/11,1993,21,2012/10/3,,jonec004,jonesch06,19.07,l
+minchna01,1969,8,31,USA,TX,Nate,Minchey,225,80,R,R,1993/9/12,1993,24,1997/9/25,,mincn001,minchna01,4.04,s
+hamelbo01,1967,11,29,USA,NJ,Bob,Hamelin,240,73,L,L,1993/9/12,1993,26,1998/9/27,,hameb001,hamelbo01,5.04,s
+fosteke01,1969,1,13,USA,IL,Kevin,Foster,160,73,R,R,1993/9/12,1993,24,2001/8/21,,fostk001,fosteke01,7.95,m
+flenehu01,1969,2,25,USA,TX,Huck,Flener,175,71,B,L,1993/9/14,1993,24,1997/7/28,,flenh001,flenehu01,3.87,s
+pridecu01,1968,12,17,USA,DC,Curtis,Pride,205,72,L,R,1993/9/14,1993,25,2006/10/1,,pridc001,pridecu01,13.05,l
+bautida01,1972,5,24,D.R.,Distrito Nacional,Danny,Bautista,170,71,R,R,1993/9/15,1993,21,2004/9/28,,bautd001,bautida01,11.04,l
+grangje01,1971,12,16,USA,CA,Jeff,Granger,200,76,R,L,1993/9/16,1993,22,1997/4/25,,granj001,grangje01,3.61,s
+floydcl01,1972,12,5,USA,IL,Cliff,Floyd,220,77,L,R,1993/9/18,1993,21,2009/6/17,,floyc001,floydcl01,15.76,l
+trachst01,1970,10,31,USA,CA,Steve,Trachsel,185,75,R,R,1993/9/19,1993,23,2008/6/7,,tracs001,trachst01,14.73,l
+kiefema01,1968,11,13,USA,CA,Mark,Kiefer,175,76,R,R,1993/9/20,1993,25,1996/4/27,,kiefm001,kiefema01,2.6,s
+martino01,1966,12,10,D.R.,San Pedro de Macoris,Norberto,Martin,175,70,R,R,1993/9/20,1993,27,1999/5/4,,martn001,martino01,5.62,s
+howarch02,1965,11,18,USA,MA,Chris,Howard,185,72,R,L,1993/9/21,1993,28,1995/9/20,,howac002,howarch02,2,s
+loonebr01,1969,9,26,USA,CT,Brian,Looney,180,70,L,L,1993/9/26,1993,24,1995/6/8,,loonb001,loonebr01,1.7,s
+greensh01,1972,11,10,USA,IL,Shawn,Green,190,76,L,L,1993/9/28,1993,21,2007/9/29,,grees001,greensh01,14.01,l
+greerke01,1967,5,12,USA,MA,Kenny,Greer,210,75,R,R,1993/9/29,1993,26,1995/7/17,,greek001,greerke01,1.8,s
+delgaca01,1972,6,25,P.R.,,Carlos,Delgado,215,75,L,R,1993/10/1,1993,21,2009/5/10,,delgc001,delgaca01,15.62,l
+davisti01,1970,7,14,USA,FL,Tim,Davis,165,71,L,L,1994/4/4,1994,24,1997/4/18,,davit002,davisti01,3.04,s
+sageraj01,1965,3,3,USA,OH,A. J.,Sager,220,76,R,R,1994/4/4,1994,29,1998/9/26,,sagea001,sagera.01,4.48,s
+hyersti01,1971,10,3,USA,GA,Tim,Hyers,185,73,L,L,1994/4/4,1994,23,1999/8/5,,hyert001,hyersti01,5.34,s
+moutoja01,1968,12,29,USA,CO,James,Mouton,175,69,R,R,1994/4/4,1994,26,2001/10/7,,moutj001,moutoja01,7.52,m
+gonzaal01,1973,4,8,USA,FL,Alex,Gonzalez,180,72,R,R,1994/4/4,1994,21,2006/5/20,,gonza001,gonzaal01,12.13,l
+petagro01,1971,6,7,Venezuela,Nueva Esparta,Roberto,Petagine,172,73,L,L,1994/4/4,1994,23,2006/7/8,,petar001,petagro01,12.27,l
+carrahe01,1969,10,22,D.R.,San Pedro de Macoris,Hector,Carrasco,235,74,R,R,1994/4/4,1994,25,2007/6/30,,carrh001,carrahe01,13.25,l
+halljo02,1966,3,6,USA,KY,Joe,Hall,180,72,R,R,1994/4/5,1994,28,1997/6/18,,hallj001,halljo02,3.21,s
+kellymi02,1970,6,2,USA,CA,Mike,Kelly,195,76,R,R,1994/4/5,1994,24,1999/4/12,,kellm001,kellymi02,5.02,s
+taylobi04,1961,10,16,USA,FL,Billy,Taylor,200,80,R,R,1994/4/5,1994,33,2001/4/8,,taylb001,taylobi04,7.01,m
+johnsbr01,1968,1,8,USA,CA,Brian,Johnson,210,74,R,R,1994/4/5,1994,26,2001/9/21,,johnb002,johnsbr01,7.47,m
+lockhke01,1964,11,10,USA,CA,Keith,Lockhart,170,70,L,R,1994/4/5,1994,30,2003/9/27,,lockk001,lockhke01,9.48,m
+stinnke01,1970,2,14,USA,OK,Kelly,Stinnett,195,71,R,R,1994/4/5,1994,24,2007/9/30,,stink001,stinnke01,13.5,l
+spoljpa01,1970,9,24,CAN,BC,Paul,Spoljaric,205,75,R,L,1994/4/6,1994,24,2000/9/28,,spolp001,spoljpa01,6.48,m
+jarvike01,1969,8,1,USA,KY,Kevin,Jarvis,200,74,L,R,1994/4/6,1994,25,2006/9/24,,jarvk001,jarvike01,12.48,l
+whiteri01,1968,12,23,USA,OH,Rick,White,215,76,R,R,1994/4/6,1994,26,2007/9/5,,whitr002,whiteri01,13.42,l
+reyesca01,1969,4,4,USA,FL,Carlos,Reyes,190,73,R,R,1994/4/7,1994,25,2003/9/26,,reyec001,reyesca01,9.48,m
+dreifda01,1972,5,3,USA,KS,Darren,Dreifort,205,74,R,R,1994/4/7,1994,22,2004/8/16,,dreid001,dreifda01,10.37,l
+mathemi01,1970,9,22,USA,OH,Mike,Matheny,205,75,R,R,1994/4/7,1994,24,2006/5/31,,mathm001,mathemi01,12.16,l
+parkch01,1973,6,30,South Korea,,Chan Ho,Park,210,74,R,R,1994/4/8,1994,21,2010/10/1,,parkc002,parkch01,16.49,l
+pulidca01,1971,8,5,Venezuela,Distrito Federal,Carlos,Pulido,194,72,L,L,1994/4/9,1994,23,2004/4/24,,pulic001,pulidca01,10.05,l
+cruzfa01,1972,5,1,D.R.,Monte Cristi,Fausto,Cruz,165,70,R,R,1994/4/10,1994,22,1996/9/29,,cruzf001,cruzfa01,2.47,s
+helliri01,1970,12,15,USA,ND,Rick,Helling,215,75,R,R,1994/4/10,1994,24,2006/9/9,,hellr001,helliri01,12.42,l
+braggda01,1969,9,7,USA,CT,Darren,Bragg,180,69,L,R,1994/4/12,1994,25,2004/10/3,,bragd001,braggda01,10.48,l
+hendero01,1971,3,11,USA,KY,Rod,Henderson,195,76,R,R,1994/4/19,1994,23,1998/9/23,,hendr002,hendero01,4.43,s
+tabakje01,1964,1,17,USA,OH,Jeff,Tabaka,195,74,R,L,1994/4/19,1994,30,2001/10/5,,tabaj001,tabakje01,7.47,m
+limajo01,1972,9,30,D.R.,Santiago,Jose,Lima,170,74,R,R,1994/4/20,1994,22,2006/7/7,,limaj001,limajo01,12.22,l
+elliodo01,1968,9,20,USA,TX,Donnie,Elliott,190,76,R,R,1994/4/23,1994,26,1995/9/19,,ellid001,elliodo01,1.41,s
+hudekjo01,1966,8,8,USA,FL,John,Hudek,200,73,B,R,1994/4/23,1994,28,1999/9/30,,hudej001,hudekjo01,5.44,s
+mabryjo01,1970,10,17,USA,DE,John,Mabry,195,76,L,R,1994/4/23,1994,24,2007/5/17,,mabrj001,mabryjo01,13.07,l
+fabrejo01,1970,3,13,USA,FL,Jorge,Fabregas,205,75,L,R,1994/4/24,1994,24,2002/9/27,,fabrj001,fabrejo01,8.43,m
+eenhoro01,1968,2,9,Netherlands,,Robert,Eenhoorn,170,75,R,R,1994/4/27,1994,26,1997/9/28,,eenhr001,eenhoro01,3.42,s
+hallda01,1964,7,14,USA,OH,Darren,Hall,205,75,R,R,1994/4/30,1994,30,1998/8/11,,halld002,hallda01,4.28,s
+eversbr01,1969,2,11,USA,IL,Bryan,Eversgerd,190,73,R,L,1994/4/30,1994,25,1998/9/26,,everb001,eversbr01,4.41,s
+holbera01,1970,9,25,USA,CA,Ray,Holbert,170,72,R,R,1994/5/2,1994,24,2000/6/18,,holbr001,holbera01,6.13,m
+cartean01,1968,11,9,USA,PA,Andy,Carter,200,77,L,L,1994/5/3,1994,26,1995/5/15,,carta001,cartean01,1.03,s
+dunnst02,1970,4,18,USA,IL,Steve,Dunn,225,76,L,L,1994/5/3,1994,24,1995/9/28,,dunns001,dunnst02,1.41,s
+ogeach01,1970,11,9,USA,LA,Chad,Ogea,200,74,R,R,1994/5/3,1994,24,1999/10/2,,ogeac001,ogeach01,5.42,s
+perryhe01,1969,9,15,USA,FL,Herbert,Perry,210,74,R,R,1994/5/3,1994,25,2004/9/10,,perrh001,perryhe01,10.36,l
+johnsch04,1971,7,20,USA,FL,Charles,Johnson,215,74,R,R,1994/5/6,1994,23,2005/6/11,,johnc002,johnsch04,11.11,l
+mordemi01,1967,12,13,USA,AL,Mike,Mordecai,175,71,R,R,1994/5/8,1994,27,2005/9/21,,mordm001,mordemi01,11.38,l
+shueypa01,1970,9,16,USA,OH,Paul,Shuey,215,75,R,R,1994/5/8,1994,24,2007/8/26,,shuep001,shueypa01,13.31,l
+veresda01,1966,10,19,USA,AL,Dave,Veres,195,74,R,R,1994/5/10,1994,28,2003/9/27,,vered001,veresda01,9.39,m
+cirilje01,1969,9,23,USA,CA,Jeff,Cirillo,190,74,R,R,1994/5/11,1994,25,2007/9/30,,cirij001,cirilje01,13.4,l
+acrema01,1968,9,16,USA,CA,Mark,Acre,235,80,R,R,1994/5/13,1994,26,1997/5/10,,acrem001,acrema01,2.99,s
+smithma03,1970,5,7,USA,CA,Mark,Smith,205,75,R,R,1994/5/14,1994,24,2003/9/28,,smitm004,smithma03,9.38,m
+ingraga01,1970,7,25,USA,GA,Garey,Ingram,180,71,R,R,1994/5/15,1994,24,1997/9/28,,ingrg001,ingraga01,3.38,s
+liebejo01,1970,4,2,USA,IA,Jon,Lieber,220,75,L,R,1994/5/15,1994,24,2008/9/5,,liebj001,liebejo01,14.32,l
+greerru01,1969,1,21,USA,AL,Rusty,Greer,190,72,L,L,1994/5/16,1994,25,2002/7/11,,greer001,greerru01,8.16,m
+wellsbo01,1966,11,1,USA,WA,Bob,Wells,180,72,R,R,1994/5/16,1994,28,2002/9/29,,wellb002,wellsbo01,8.38,m
+younger02,1969,7,8,USA,IL,Ernie,Young,190,73,R,R,1994/5/17,1994,25,2004/9/24,,youne002,younger02,10.36,l
+steveda01,1970,3,4,USA,CA,Dave,Stevens,210,75,R,R,1994/5/20,1994,24,2000/7/6,,stevd001,steveda01,6.13,m
+vanlawi01,1970,7,16,USA,TN,William,VanLandingham,210,74,R,R,1994/5/21,1994,24,1997/7/27,,vanlb001,vanlawi01,3.19,s
+tavarje01,1971,3,26,D.R.,Distrito Nacional,Jesus,Tavarez,170,72,B,R,1994/5/23,1994,23,1998/6/15,,tavaj002,tavarje01,4.07,s
+hamiljo02,1970,9,9,USA,GA,Joey,Hamilton,220,76,R,R,1994/5/24,1994,24,2003/6/6,,hamij002,hamiljo02,9.04,m
+borlato02,1969,5,29,USA,LA,Toby,Borland,186,78,R,R,1994/5/27,1994,25,2004/6/24,,borlt001,borlato02,10.08,l
+whitega01,1971,11,20,USA,FL,Gabe,White,200,74,L,L,1994/5/27,1994,23,2005/6/7,,whitg001,whitega01,11.04,l
+saenzol01,1970,10,8,Panama,Herrera,Olmedo,Saenz,185,74,R,R,1994/5/28,1994,24,2007/9/27,,saeno001,saenzol01,13.34,l
+johnsda05,1963,2,10,USA,FL,Dane,Johnson,205,77,R,R,1994/5/30,1994,31,1997/8/31,,johnd002,johnsda05,3.26,s
+mercejo02,1971,3,5,D.R.,El Seibo,Jose,Mercedes,180,73,R,R,1994/5/31,1994,23,2003/9/24,,mercj001,mercejo02,9.32,m
+klingsc01,1971,2,3,USA,OH,Scott,Klingenbeck,205,74,R,R,1994/6/2,1994,23,1998/6/23,,klins001,klingsc01,4.06,s
+dalesma01,1968,5,14,USA,IL,Mark,Dalesandro,185,72,R,R,1994/6/6,1994,26,2001/8/10,,dalem001,dalesma01,7.18,m
+milleku01,1972,8,24,USA,AZ,Kurt,Miller,205,77,R,R,1994/6/11,1994,22,1999/4/27,,millk003,milleku01,4.88,s
+smallaa01,1971,11,23,USA,CA,Aaron,Small,200,77,R,R,1994/6/11,1994,23,2006/6/15,,smala001,smallaa01,12.02,l
+burrote01,1968,11,28,USA,LA,Terry,Burrows,185,73,L,L,1994/6/12,1994,26,1997/6/11,,burrt001,burrote01,3,s
+darwije01,1969,7,6,USA,TX,Jeff,Darwin,180,75,R,R,1994/6/13,1994,25,1997/9/27,,darwj001,darwije01,3.29,s
+valdeis01,1973,8,21,Mexico,Tamaulipas,Ismael,Valdez,185,75,R,R,1994/6/15,1994,21,2005/10/1,,valdi001,valdeis01,11.3,l
+eischjo01,1970,5,25,USA,CA,Joey,Eischen,190,73,L,L,1994/6/19,1994,24,2006/5/29,,eiscj001,eischjo01,11.95,l
+ingrari01,1966,9,10,USA,GA,Riccardo,Ingram,205,72,R,R,1994/6/26,1994,28,1995/7/30,,ingrr001,ingrari01,1.09,s
+vanegti01,1969,5,31,USA,LA,Tim,Van Egmond,185,74,R,R,1994/6/26,1994,25,1996/9/25,,vanet001,vanegti01,2.25,s
+huntebr02,1971,3,5,USA,OR,Brian,Hunter,180,76,R,R,1994/6/27,1994,23,2003/7/24,,huntb002,huntebr02,9.08,m
+liebemi01,1972,1,18,USA,CA,Mike,Lieberthal,170,72,R,R,1994/6/30,1994,22,2007/9/22,,liebm001,liebemi01,13.24,l
+olivajo01,1971,3,3,D.R.,San Pedro de Macoris,Jose,Oliva,215,75,R,R,1994/7/1,1994,23,1995/10/1,,olivj002,olivajo01,1.25,s
+jacomja01,1970,11,24,USA,OK,Jason,Jacome,155,73,L,L,1994/7/2,1994,24,1998/9/23,,jacoj001,jacomja01,4.23,s
+peguest01,1968,5,21,USA,MS,Steve,Pegues,190,74,R,R,1994/7/6,1994,26,1995/9/29,,pegus001,peguest01,1.23,s
+davisru01,1969,9,13,USA,AL,Russ,Davis,170,72,R,R,1994/7/6,1994,25,2001/6/14,,davir002,davisru01,6.95,m
+hubbatr01,1964,5,11,USA,IL,Trent,Hubbard,180,68,R,R,1994/7/7,1994,30,2003/7/27,,hubbt001,hubbatr01,9.06,m
+milleor01,1969,1,13,Panama,,Orlando,Miller,180,73,R,R,1994/7/8,1994,25,1997/9/15,,millo001,milleor01,3.19,s
+ausanjo01,1965,12,9,USA,NY,Joe,Ausanio,205,73,R,R,1994/7/14,1994,29,1995/9/15,,ausaj001,ausanjo01,1.17,s
+mcdavra01,1971,7,20,USA,CA,Ray,McDavid,190,75,L,R,1994/7/15,1994,23,1995/10/1,,mcdar001,mcdavra01,1.21,s
+floribr01,1970,5,21,USA,SC,Bryce,Florie,185,72,R,R,1994/7/17,1994,24,2001/7/21,,florb001,floribr01,7.02,m
+lorraan01,1972,8,11,USA,CA,Andrew,Lorraine,195,75,L,L,1994/7/17,1994,22,2002/9/26,,lorra001,lorraan01,8.2,m
+schuler01,1969,3,25,USA,CA,Erik,Schullstrom,220,77,R,R,1994/7/18,1994,25,1995/9/27,,schue001,schuler01,1.19,s
+perezro01,1969,6,4,Venezuela,Bolivar,Robert,Perez,205,75,R,R,1994/7/20,1994,25,2001/7/2,,perer001,perezro01,6.96,m
+frascjo01,1970,2,4,USA,NY,John,Frascatore,200,73,R,R,1994/7/21,1994,24,2001/5/9,,frasj001,frascjo01,6.81,m
+woodabr01,1969,6,25,USA,GA,Brad,Woodall,175,72,B,L,1994/7/22,1994,25,1999/5/5,,woodb002,woodabr01,4.79,s
+thompma01,1971,4,7,USA,KY,Mark,Thompson,205,74,R,R,1994/7/26,1994,23,2000/7/27,,thomm002,thompma01,6.01,m
+anderga01,1972,6,30,USA,CA,Garret,Anderson,190,75,L,L,1994/7/27,1994,22,2010/8/6,,andeg001,anderga01,16.04,l
+benitar01,1972,11,3,D.R.,San Pedro de Macoris,Armando,Benitez,180,76,R,R,1994/7/28,1994,22,2008/6/6,,benia001,benitar01,13.87,l
+bottari01,1969,8,26,USA,CT,Ricky,Bottalico,200,73,L,R,1994/7/29,1994,25,2005/7/22,,bottr001,bottari01,10.99,l
+phoenst01,1968,1,31,USA,AZ,Steve,Phoenix,175,74,R,R,1994/7/30,1994,26,1995/8/6,,phoes001,phoenst01,1.02,s
+singldu01,1972,8,6,USA,NY,Duane,Singleton,170,73,L,R,1994/8/4,1994,22,1996/6/6,,singd001,singldu01,1.84,s
+verasqu01,1971,4,3,D.R.,Distrito Nacional,Quilvio,Veras,166,69,B,R,1995/4/25,1995,24,2001/7/13,,veraq001,verasqu01,6.22,m
+osunaan01,1973,4,12,Mexico,Sinaloa,Antonio,Osuna,160,71,R,R,1995/4/25,1995,22,2005/4/10,,osuna002,osunaan01,9.97,m
+hollato01,1973,4,20,USA,OH,Todd,Hollandsworth,193,74,L,L,1995/4/25,1995,22,2006/9/30,,hollt001,hollato01,11.44,l
+myersmi01,1969,6,26,USA,IL,Mike,Myers,197,75,L,L,1995/4/25,1995,26,2007/9/30,,myerm001,myersmi01,12.44,l
+battlal01,1968,11,29,USA,NC,Allen,Battle,170,72,R,R,1995/4/26,1995,27,1996/8/14,,batta001,battlal01,1.3,s
+pemberu01,1969,12,17,D.R.,San Pedro de Macoris,Rudy,Pemberton,185,73,R,R,1995/4/26,1995,26,1997/6/2,,pembr001,pemberu01,2.1,s
+oterori01,1972,4,15,P.R.,,Ricky,Otero,150,67,B,R,1995/4/26,1995,23,1997/8/17,,oterr001,oterori01,2.31,s
+batesja01,1971,1,5,USA,CA,Jason,Bates,170,71,B,R,1995/4/26,1995,24,1998/9/27,,batej001,batesja01,3.42,s
+clontbr01,1971,4,25,USA,VA,Brad,Clontz,180,73,R,R,1995/4/26,1995,24,2000/4/30,,clonb001,clontbr01,5.02,s
+nunnajo01,1971,11,9,USA,NC,Jon,Nunnally,190,70,L,R,1995/4/26,1995,24,2000/5/31,,nunnj001,nunnajo01,5.1,s
+timmooz01,1970,9,18,USA,FL,Ozzie,Timmons,205,74,R,R,1995/4/26,1995,25,2000/10/1,,timmo001,timmooz01,5.44,s
+rodrifr02,1972,12,11,USA,NY,Frankie,Rodriguez,193,72,R,R,1995/4/26,1995,23,2001/7/22,,rodrf001,rodrifr02,6.24,m
+johnsma01,1967,10,17,USA,MA,Mark,Johnson,230,76,L,L,1995/4/26,1995,28,2002/6/2,,johnm001,johnsma01,7.11,m
+andresh01,1971,8,28,USA,TX,Shane,Andrews,215,73,R,R,1995/4/26,1995,24,2002/9/29,,andrs001,andresh01,7.43,m
+cordoma01,1969,7,10,USA,NV,Marty,Cordova,200,72,R,R,1995/4/26,1995,26,2003/4/21,,cordm001,cordoma01,7.99,m
+fordybr01,1970,5,7,USA,CT,Brook,Fordyce,185,73,R,R,1995/4/26,1995,25,2004/10/2,,fordb001,fordybr01,9.44,m
+higgibo02,1970,8,18,USA,PA,Bobby,Higginson,180,71,L,R,1995/4/26,1995,25,2005/5/5,,higgb001,higgibo02,10.03,l
+chrisja01,1969,9,21,USA,NE,Jason,Christiansen,230,77,R,L,1995/4/26,1995,26,2005/10/1,,chrij002,chrisja01,10.44,l
+alfoned01,1973,11,8,Venezuela,Miranda,Edgardo,Alfonzo,210,71,R,R,1995/4/26,1995,22,2006/6/11,,alfoe001,alfoned01,11.13,l
+tuckemi01,1971,6,25,USA,VA,Michael,Tucker,185,74,L,R,1995/4/26,1995,24,2006/10/1,,tuckm001,tuckemi01,11.44,l
+durhara01,1971,11,30,USA,NC,Ray,Durham,170,68,B,R,1995/4/26,1995,24,2008/9/28,,durhr001,durhara01,13.44,l
+percitr01,1969,8,9,USA,CA,Troy,Percival,200,75,R,R,1995/4/26,1995,26,2009/5/21,,perct001,percitr01,14.08,l
+beruman01,1971,4,5,Mexico,Baja California,Andres,Berumen,210,74,R,R,1995/4/27,1995,24,1996/6/17,,berua001,beruman01,1.14,s
+lomonke01,1971,11,20,USA,AR,Kevin,Lomon,195,73,R,R,1995/4/27,1995,24,1996/9/28,,lomok001,lomonke01,1.42,s
+alberjo01,1969,6,29,P.R.,,Jose,Alberro,190,74,R,R,1995/4/27,1995,26,1997/8/5,,albej001,alberjo01,2.28,s
+heredwi01,1972,3,30,D.R.,La Romana,Wilson,Heredia,175,72,R,R,1995/4/27,1995,23,1997/9/20,,herew001,heredwi01,2.4,s
+bailero01,1970,10,3,USA,FL,Roger,Bailey,180,73,R,R,1995/4/27,1995,25,1997/9/24,,bailr001,bailero01,2.41,s
+menhapa01,1969,3,25,USA,MO,Paul,Menhart,190,74,R,R,1995/4/27,1995,26,1997/9/27,,menhp001,menhapa01,2.42,s
+doughji01,1968,3,8,USA,NY,Jim,Dougherty,210,72,R,R,1995/4/27,1995,27,1999/4/20,,dougj001,doughji01,3.98,s
+perezca01,1971,4,14,D.R.,San Cristobal,Carlos,Perez,195,75,L,L,1995/4/27,1995,24,2000/9/5,,perec001,perezca01,5.36,s
+lirafe01,1972,4,26,Venezuela,Miranda,Felipe,Lira,170,72,R,R,1995/4/27,1995,23,2001/5/21,,liraf001,lirafe01,6.07,m
+reyesal01,1971,4,10,D.R.,San Cristobal,Alberto,Reyes,230,73,R,R,1995/4/27,1995,24,2008/8/5,,reyea001,reyesal01,13.28,l
+pennsh01,1969,9,11,USA,OH,Shannon,Penn,163,70,B,R,1995/4/28,1995,26,1996/9/29,,penns001,pennsh01,1.42,s
+fonvich01,1971,3,5,USA,NC,Chad,Fonville,155,66,B,R,1995/4/28,1995,24,1999/7/9,,fonvc001,fonvich01,4.2,s
+hansegr01,1971,3,12,USA,CA,Greg,Hansell,213,77,R,R,1995/4/28,1995,24,1999/10/3,,hansg001,hansegr01,4.44,s
+sparkst01,1965,7,2,USA,OK,Steve,Sparks,187,72,R,R,1995/4/28,1995,30,2004/9/26,,spars001,sparkst01,9.42,m
+schmija01,1973,1,29,USA,ID,Jason,Schmidt,185,77,R,R,1995/4/28,1995,22,2009/8/5,,schmj001,schmija01,14.28,l
+villoro01,1970,1,16,USA,NJ,Ron,Villone,245,75,L,L,1995/4/28,1995,25,2009/10/4,,villr001,villoro01,14.45,l
+grudzma01,1970,6,30,USA,WI,Mark,Grudzielanek,185,73,R,R,1995/4/28,1995,25,2010/6/6,,grudm001,grudzma01,15.12,l
+cornere01,1970,6,2,USA,AL,Reid,Cornelius,200,72,R,R,1995/4/29,1995,25,2000/9/30,,cornr001,cornere01,5.43,s
+jamesmi01,1967,8,15,USA,FL,Mike,James,216,76,R,R,1995/4/29,1995,28,2002/5/5,,jamem001,jamesmi01,7.02,m
+vitiejo01,1970,4,11,USA,MA,Joe,Vitiello,215,74,R,R,1995/4/29,1995,25,2003/9/28,,vitij001,vitiejo01,8.42,m
+radkebr01,1972,10,27,USA,WI,Brad,Radke,180,74,R,R,1995/4/29,1995,23,2006/9/28,,radkb001,radkebr01,11.42,l
+willito02,1971,2,13,USA,NY,Todd,Williams,185,75,R,R,1995/4/29,1995,24,2007/6/15,,willt001,willito02,12.14,l
+loaizes01,1971,12,31,Mexico,Baja California,Esteban,Loaiza,230,74,R,R,1995/4/29,1995,24,2008/6/11,,loaie001,loaizes01,13.13,l
+pettian01,1972,6,15,USA,LA,Andy,Pettitte,235,77,L,L,1995/4/29,1995,23,2013/9/28,,petta001,pettian01,18.43,l
+hookch01,1968,8,4,USA,CA,Chris,Hook,230,77,R,R,1995/4/30,1995,27,1996/9/29,,hookc001,hookch01,1.42,s
+wengedo01,1969,11,6,USA,IA,Don,Wengert,205,74,R,R,1995/4/30,1995,26,2001/5/26,,wengd001,wengedo01,6.08,m
+aceveju01,1970,5,5,Mexico,Chihuahua,Juan,Acevedo,245,74,R,R,1995/4/30,1995,25,2003/8/5,,acevj001,aceveju01,8.27,m
+boehrbr01,1969,1,8,USA,MO,Brian,Boehringer,180,74,B,R,1995/4/30,1995,26,2004/6/1,,boehb001,boehrbr01,9.1,m
+baldwja01,1971,7,15,USA,NC,James,Baldwin,210,75,R,R,1995/4/30,1995,24,2005/9/29,,baldj002,baldwja01,10.42,l
+randajo01,1969,12,18,USA,WI,Joe,Randa,190,71,R,R,1995/4/30,1995,26,2006/10/1,,randj002,randajo01,11.43,l
+eshelva01,1969,5,22,USA,PA,Vaughn,Eshelman,205,75,L,L,1995/5/2,1995,26,1997/7/11,,eshev001,eshelva01,2.19,s
+encaran01,1969,4,18,D.R.,Distrito Nacional,Angelo,Encarnacion,180,68,R,R,1995/5/2,1995,26,1997/9/27,,encaa001,encaran01,2.41,s
+garcifr01,1972,8,1,D.R.,La Romana,Freddy,Garcia,190,74,R,R,1995/5/2,1995,23,1999/10/3,,garcf001,garcifr01,4.42,s
+nomohi01,1968,8,31,Japan,Osaka,Hideo,Nomo,210,74,R,R,1995/5/2,1995,27,2008/4/18,,nomoh001,nomohi01,12.97,l
+hartgde01,1966,8,12,USA,CA,Dean,Hartgraves,185,72,R,L,1995/5/3,1995,29,1998/7/23,,hartd001,hartgde01,3.22,s
+bellda01,1972,9,14,USA,OH,David,Bell,170,70,R,R,1995/5/3,1995,23,2006/10/1,,belld002,bellda01,11.42,l
+perezto03,1973,12,29,Venezuela,Lara,Tomas,Perez,185,71,B,R,1995/5/3,1995,22,2008/4/21,,peret003,perezto03,12.98,l
+sturtta01,1970,10,12,USA,MA,Tanyon,Sturtze,190,77,R,R,1995/5/3,1995,25,2008/8/25,,sturt001,sturtta01,13.32,l
+bradste01,1969,2,3,USA,VA,Terry,Bradshaw,180,72,L,R,1995/5/4,1995,26,1996/9/29,,bradt001,bradste01,1.41,s
+karlsc01,1971,8,9,USA,CA,Scott,Karl,195,74,L,L,1995/5/4,1995,24,2000/9/28,,karls001,karlsc01,5.41,s
+bochtdo01,1970,7,5,USA,FL,Doug,Bochtler,205,75,R,R,1995/5/5,1995,25,2000/7/22,,bochd001,bochtdo01,5.22,s
+mimbsmi01,1969,2,13,USA,GA,Mike,Mimbs,182,74,L,L,1995/5/6,1995,26,1997/5/16,,mimbm001,mimbsmi01,2.03,s
+mccurje01,1970,1,21,Japan,,Jeff,McCurry,210,79,R,R,1995/5/6,1995,25,1999/6/22,,mccuj001,mccurje01,4.13,s
+bunchme01,1971,11,4,USA,TX,Melvin,Bunch,165,73,R,R,1995/5/6,1995,24,1999/6/25,,buncm001,bunchme01,4.14,s
+sullisc01,1971,3,13,USA,AL,Scott,Sullivan,210,75,R,R,1995/5/6,1995,24,2004/8/25,,sulls001,sullisc01,9.31,m
+parrajo01,1972,11,28,D.R.,Santiago,Jose,Parra,160,71,R,R,1995/5/7,1995,23,2004/7/17,,parrj002,parrajo01,9.2,m
+hermadu01,1972,12,21,USA,OH,Dustin,Hermanson,195,75,R,R,1995/5/8,1995,23,2006/9/24,,hermd001,hermadu01,11.39,l
+giambja01,1971,1,8,USA,CA,Jason,Giambi,240,75,L,R,1995/5/8,1995,24,2014/9/27,,giamj001,giambja01,19.4,l
+urbinug01,1974,2,15,Venezuela,Distrito Federal,Ugueth,Urbina,185,74,R,R,1995/5/9,1995,21,2005/10/2,,urbiu001,urbinug01,10.41,l
+rodrife01,1972,12,5,D.R.,Monte Cristi,Felix,Rodriguez,170,73,R,R,1995/5/13,1995,23,2006/9/30,,rodrf002,rodrife01,11.39,l
+benneer01,1968,9,13,USA,CA,Erik,Bennett,205,74,R,R,1995/5/15,1995,27,1996/6/8,,benne001,benneer01,1.07,s
+nichtch01,1966,5,13,USA,OH,Chris,Nichting,205,73,R,R,1995/5/15,1995,29,2002/7/2,,nichc002,nichtch01,7.14,m
+carmora01,1972,10,2,P.R.,,Rafael,Carmona,185,74,L,R,1995/5/18,1995,23,1999/6/12,,carmr001,carmora01,4.07,s
+mintzst01,1968,11,24,USA,NC,Steve,Mintz,190,71,L,R,1995/5/18,1995,27,1999/10/2,,mints001,mintzst01,4.38,s
+stynech01,1973,1,19,USA,NY,Chris,Stynes,175,69,R,R,1995/5/19,1995,22,2004/7/30,,stync001,stynech01,9.21,m
+mahayro01,1971,6,28,USA,IL,Ron,Mahay,200,74,L,L,1995/5/21,1995,24,2010/8/21,,mahar001,mahayro01,15.26,l
+hurtaed01,1970,2,1,Venezuela,Lara,Edwin,Hurtado,215,75,R,R,1995/5/22,1995,25,1997/7/30,,hurte001,hurtaed01,2.19,s
+pittsji01,1974,4,3,USA,PA,Jim,Pittsley,215,79,R,R,1995/5/23,1995,21,1999/7/18,,pittj002,pittsji01,4.16,s
+riverma01,1969,11,29,Panama,Panama,Mariano,Rivera,195,74,R,R,1995/5/23,1995,26,2013/9/26,,rivem002,riverma01,18.36,l
+harikti01,1971,7,15,USA,FL,Tim,Harikkala,185,74,R,R,1995/5/27,1995,24,2007/8/12,,harit001,harikti01,12.22,l
+castial01,1970,2,10,D.R.,San Juan,Alberto,Castillo,184,72,R,R,1995/5/28,1995,25,2007/6/21,,casta001,castial01,12.07,l
+normale01,1969,2,25,USA,MI,Les,Norman,185,73,R,R,1995/5/29,1995,26,1996/9/29,,norml001,normale01,1.34,s
+jeterde01,1974,6,26,USA,NJ,Derek,Jeter,195,75,R,R,1995/5/29,1995,21,2014/9/28,,jeted001,jeterde01,19.35,l
+unroeti01,1970,10,7,USA,IL,Tim,Unroe,200,75,R,R,1995/5/30,1995,25,2000/9/30,,unrot001,unroeti01,5.34,s
+keysebr01,1966,10,31,USA,CA,Brian,Keyser,180,73,R,R,1995/6/2,1995,29,1996/9/29,,keysb001,keysebr01,1.33,s
+goodwcu01,1972,9,30,USA,CA,Curtis,Goodwin,180,71,L,L,1995/6/2,1995,23,1999/8/8,,goodc001,goodwcu01,4.19,s
+devarce01,1969,9,22,D.R.,Duarte,Cesar,Devarez,175,70,R,R,1995/6/3,1995,26,1996/9/29,,devac001,devarce01,1.33,s
+nitkocj01,1973,3,9,USA,NY,C. J.,Nitkowski,185,74,L,L,1995/6/3,1995,22,2005/6/7,,nitkc001,nitkoc.01,10.02,l
+owenser01,1971,2,3,USA,VA,Eric,Owens,185,73,R,R,1995/6/6,1995,24,2003/9/27,,owene001,owenser01,8.32,m
+moutoly01,1969,5,13,USA,LA,Lyle,Mouton,240,76,R,R,1995/6/7,1995,26,2001/5/19,,moutl001,moutoly01,5.95,s
+walkepe01,1969,4,8,USA,MA,Pete,Walker,195,74,R,R,1995/6/7,1995,26,2006/7/7,,walkp001,walkepe01,11.09,l
+barryje01,1969,9,22,USA,OR,Jeff,Barry,190,73,B,R,1995/6/9,1995,26,1999/10/3,,barrj001,barryje01,4.32,s
+hudsojo02,1970,9,29,USA,PA,Joe,Hudson,173,73,R,R,1995/6/10,1995,25,1998/8/7,,hudsj001,hudsojo02,3.16,s
+nevinph01,1971,1,19,USA,CA,Phil,Nevin,180,74,R,R,1995/6/11,1995,24,2006/9/29,,nevip001,nevinph01,11.31,l
+schalge01,1970,6,5,USA,PA,Gene,Schall,190,75,R,R,1995/6/16,1995,25,1996/9/29,,schag001,schalge01,1.29,s
+pulsibi01,1973,10,9,USA,GA,Bill,Pulsipher,230,75,L,L,1995/6/17,1995,22,2005/5/7,,pulsb001,pulsibi01,9.9,m
+mantema01,1973,7,7,USA,FL,Matt,Mantei,181,73,R,R,1995/6/18,1995,22,2005/7/1,,mantm001,mantema01,10.04,l
+cedenro01,1974,8,16,Venezuela,Carabobo,Roger,Cedeno,165,73,B,R,1995/6/20,1995,21,2005/6/5,,ceder001,cedenro01,9.97,m
+parrist01,1967,12,17,USA,IL,Steve,Parris,190,72,R,R,1995/6/21,1995,28,2003/6/17,,parrs001,parrist01,7.99,m
+dishmgl01,1970,11,5,USA,MD,Glenn,Dishman,195,73,R,L,1995/6/22,1995,25,1997/9/7,,dishg001,dishmgl01,2.21,s
+karpry01,1970,4,5,USA,CA,Ryan,Karp,217,76,L,L,1995/6/23,1995,25,1997/9/27,,karpr001,karpry01,2.27,s
+jordari03,1970,6,27,USA,FL,Ricardo,Jordan,175,72,L,L,1995/6/23,1995,25,1998/4/13,,jordr002,jordari03,2.81,s
+crabtti01,1969,10,13,USA,MI,Tim,Crabtree,205,76,R,R,1995/6/23,1995,26,2001/6/25,,crabt001,crabtti01,6.01,m
+widgech01,1971,5,21,USA,DE,Chris,Widger,195,75,R,R,1995/6/23,1995,24,2006/9/15,,widgc001,widgech01,11.24,l
+givenbr01,1965,11,6,USA,CA,Brian,Givens,220,78,R,L,1995/6/24,1995,30,1996/6/26,,giveb001,givenbr01,1.01,s
+erickjo01,1967,9,16,USA,IL,John,Ericks,220,79,R,R,1995/6/24,1995,28,1997/4/28,,ericj001,erickjo01,1.85,s
+martisa01,1970,10,8,D.R.,Santo Domingo,Sandy,Martinez,200,74,L,R,1995/6/24,1995,25,2004/10/3,,marta002,martisa01,9.28,m
+zaungr01,1971,4,14,USA,CA,Gregg,Zaun,170,70,B,R,1995/6/24,1995,24,2010/5/20,,zaung001,zaungr01,14.92,l
+tremich01,1969,10,17,USA,TX,Chris,Tremie,200,72,R,R,1995/7/1,1995,26,2004/9/21,,tremc001,tremich01,9.23,m
+palmeor01,1969,1,19,USA,NJ,Orlando,Palmeiro,155,71,L,L,1995/7/1,1995,26,2007/9/30,,palmo001,palmeor01,12.26,l
+ledesaa01,1971,6,3,USA,CA,Aaron,Ledesma,200,74,R,R,1995/7/2,1995,24,2000/6/10,,ledea001,ledesaa01,4.95,s
+prietar01,1969,10,22,Cuba,La Habana,Ariel,Prieto,220,75,R,R,1995/7/2,1995,26,2001/5/10,,priea001,prietar01,5.86,s
+morelra01,1974,8,15,D.R.,Santiago,Ramon,Morel,175,74,R,R,1995/7/6,1995,21,1997/9/27,,morer001,morelra01,2.23,s
+krivdri01,1970,1,19,USA,PA,Rick,Krivda,180,73,R,L,1995/7/7,1995,25,1998/9/8,,krivr001,krivdri01,3.18,s
+kroonma01,1973,4,2,USA,NY,Marc,Kroon,190,74,B,R,1995/7/7,1995,22,2004/6/29,,kroom001,kroonma01,8.99,m
+johnsdo04,1967,12,19,USA,IN,Doug,Johns,185,74,R,L,1995/7/8,1995,28,1999/10/2,,johnd003,johnsdo04,4.24,s
+borowjo01,1971,5,4,USA,NJ,Joe,Borowski,225,74,R,R,1995/7/9,1995,24,2008/7/1,,boroj001,borowjo01,12.99,l
+hubbami01,1971,2,16,USA,VA,Mike,Hubbard,180,73,R,R,1995/7/13,1995,24,2001/6/13,,hubbm001,hubbami01,5.92,s
+willige03,1969,4,22,USA,WI,George,Williams,190,70,B,R,1995/7/14,1995,26,2000/9/13,,willg002,willige03,5.17,s
+mcandja01,1967,9,2,USA,PA,Jamie,McAndrew,190,74,R,R,1995/7/17,1995,28,1997/7/23,,mcanj001,mcandja01,2.02,s
+suppaje01,1975,1,2,USA,OK,Jeff,Suppan,225,74,R,R,1995/7/17,1995,20,2012/5/28,,suppj001,suppaje01,16.88,l
+isrinja01,1972,9,7,USA,IL,Jason,Isringhausen,235,75,R,R,1995/7/17,1995,23,2012/9/19,,isrij001,isrinja01,17.19,l
+wojcist01,1970,7,29,USA,IL,Steve,Wojciechowski,185,74,L,L,1995/7/18,1995,25,1997/7/18,,wojcs001,wojcist01,2,s
+valdeca01,1971,12,26,D.R.,Peravia,Carlos,Valdez,165,71,R,R,1995/7/18,1995,24,1998/9/27,,valdc001,valdeca01,3.2,s
+karchma01,1967,6,28,USA,PA,Matt,Karchner,245,76,R,R,1995/7/18,1995,28,2000/6/14,,karcm001,karchma01,4.91,s
+sirotmi01,1971,5,13,USA,TX,Mike,Sirotka,190,73,L,L,1995/7/19,1995,24,2000/9/28,,sirom001,sirotmi01,5.2,s
+rekarbr01,1972,6,3,USA,IL,Bryan,Rekar,205,75,R,R,1995/7/19,1995,23,2002/4/28,,rekab001,rekarbr01,6.78,m
+robinke01,1969,11,3,USA,OH,Ken,Robinson,175,69,R,R,1995/7/20,1995,26,1997/9/24,,robik001,robinke01,2.18,s
+brandma01,1970,7,14,USA,TX,Mark,Brandenburg,180,72,R,R,1995/7/20,1995,25,1997/9/27,,branm002,brandma01,2.19,s
+brewija01,1971,9,28,USA,NC,Jamie,Brewington,180,76,R,R,1995/7/24,1995,24,2000/9/24,,brewj001,brewija01,5.18,s
+mathetj01,1970,1,9,USA,IL,T. J.,Mathews,200,74,R,R,1995/7/28,1995,25,2002/7/24,,matht002,mathet.01,6.99,m
+byrdpa01,1970,12,3,USA,KY,Paul,Byrd,185,73,R,R,1995/7/28,1995,25,2009/10/3,,byrdp001,byrdpa01,14.19,l
+bertomi01,1970,1,18,USA,NJ,Mike,Bertotti,185,73,L,L,1995/7/29,1995,25,1997/5/10,,bertm001,bertomi01,1.78,s
+carragi01,1968,3,4,Venezuela,Anzoategui,Giovanni,Carrara,225,74,R,R,1995/7/29,1995,27,2006/9/23,,carrg001,carragi01,11.16,l
+snopech01,1970,9,20,USA,KY,Chris,Snopek,180,73,R,R,1995/7/31,1995,25,1998/9/27,,snopc001,snopech01,3.16,s
+coomero01,1966,11,18,USA,IL,Ron,Coomer,195,71,R,R,1995/8/1,1995,29,2003/9/28,,coomr001,coomero01,8.16,m
+santafp01,1967,10,24,USA,MI,F. P.,Santangelo,165,70,B,R,1995/8/2,1995,28,2001/10/7,,santf001,santaf.01,6.19,m
+sweenma01,1969,10,26,USA,MA,Mark,Sweeney,195,73,L,L,1995/8/4,1995,26,2008/9/26,,sweem001,sweenma01,13.16,l
+jordake01,1969,10,9,USA,CA,Kevin,Jordan,185,73,R,R,1995/8/8,1995,26,2001/10/7,,jordk001,jordake01,6.17,m
+adamste01,1973,3,6,USA,AL,Terry,Adams,180,75,R,R,1995/8/10,1995,22,2005/5/23,,adamt001,adamste01,9.79,m
+thomala01,1969,10,25,USA,FL,Larry,Thomas,195,73,R,L,1995/8/11,1995,26,1997/5/25,,thoml001,thomala01,1.79,s
+herrejo02,1972,8,30,D.R.,Distrito Nacional,Jose,Herrera,165,72,L,L,1995/8/12,1995,23,1996/9/29,,herrj001,herrejo02,1.13,s
+cooksbr01,1969,9,7,USA,CA,Brent,Cookson,200,71,R,R,1995/8/12,1995,26,1999/6/13,,cookb001,cooksbr01,3.84,s
+barbebr02,1973,3,4,USA,OH,Brian,Barber,175,73,R,R,1995/8/12,1995,22,1999/8/1,,barbb002,barbebr02,3.97,s
+damonjo01,1973,11,5,USA,KS,Johnny,Damon,205,74,L,L,1995/8/12,1995,22,2012/8/1,,damoj001,damonjo01,16.98,l
+simasbi01,1971,11,28,USA,CA,Bill,Simas,200,75,L,R,1995/8/15,1995,24,2000/9/30,,simab001,simasbi01,5.13,s
+wolcobo01,1973,9,8,USA,CA,Bob,Wolcott,190,72,R,R,1995/8/18,1995,22,1999/7/1,,wolcb001,wolcobo01,3.87,s
+alvarta01,1971,11,25,Mexico,Sonora,Tavo,Alvarez,245,75,R,R,1995/8/21,1995,24,1996/9/29,,alvat001,alvarta01,1.11,s
+wasdijo01,1972,8,5,USA,VA,John,Wasdin,190,74,R,R,1995/8/24,1995,23,2007/7/7,,wasdj001,wasdijo01,11.88,l
+bruskji01,1964,10,7,USA,IL,Jim,Bruske,185,73,R,R,1995/8/25,1995,31,2000/5/13,,brusj001,bruskji01,4.72,s
+camermi01,1973,1,8,USA,GA,Mike,Cameron,210,74,R,R,1995/8/27,1995,22,2011/9/12,,camem001,camermi01,16.05,l
+valdema01,1971,12,20,USA,OH,Marc,Valdes,170,72,R,R,1995/8/28,1995,24,2001/6/22,,valdm001,valdema01,5.82,s
+gracemi02,1970,6,20,USA,IL,Mike,Grace,210,76,R,R,1995/9/1,1995,25,1999/10/1,,gracm002,gracemi02,4.08,s
+walldo01,1967,7,11,USA,MO,Donne,Wall,180,73,R,R,1995/9/2,1995,28,2002/6/11,,walld002,walldo01,6.78,m
+garcika01,1975,10,29,Mexico,Sonora,Karim,Garcia,210,72,L,L,1995/9/2,1995,20,2004/8/24,,garck002,garcika01,8.98,m
+stewash01,1974,2,25,USA,OH,Shannon,Stewart,175,72,R,R,1995/9/2,1995,21,2008/6/7,,stews002,stewash01,12.77,l
+castrju01,1972,6,20,Mexico,Sinaloa,Juan,Castro,190,71,R,R,1995/9/2,1995,23,2011/6/4,,castj004,castrju01,15.76,l
+swartda01,1968,2,11,USA,OH,Dave,Swartzbaugh,195,74,R,R,1995/9/3,1995,27,1997/4/22,,sward001,swartda01,1.64,s
+riverro01,1969,1,1,P.R.,,Roberto,Rivera,175,72,L,L,1995/9/3,1995,26,1999/5/5,,river001,riverro01,3.67,s
+riverru01,1973,11,14,Panama,,Ruben,Rivera,195,72,R,R,1995/9/3,1995,22,2003/5/28,,river002,riverru01,7.74,m
+clarkto02,1972,6,15,USA,KS,Tony,Clark,205,80,B,R,1995/9/3,1995,23,2009/7/12,,clart002,clarkto02,13.87,l
+huismri01,1969,5,17,USA,IL,Rick,Huisman,200,75,R,R,1995/9/4,1995,26,1996/9/28,,huisr001,huismri01,1.07,s
+sodowcl01,1972,7,13,USA,OK,Clint,Sodowsky,180,75,L,R,1995/9/4,1995,23,1999/5/22,,sodoc001,sodowcl01,3.72,s
+mecirji01,1970,5,16,USA,NY,Jim,Mecir,195,73,B,R,1995/9/4,1995,25,2005/9/28,,mecij001,mecirji01,10.07,l
+loretma01,1971,8,14,USA,CA,Mark,Loretta,175,72,R,R,1995/9/4,1995,24,2009/10/4,,lorem001,loretma01,14.09,l
+sweenmi01,1973,7,22,USA,CA,Mike,Sweeney,195,73,R,R,1995/9/4,1995,22,2010/10/3,,sweem002,sweenmi01,15.09,l
+posadjo01,1971,8,17,P.R.,,Jorge,Posada,215,74,B,R,1995/9/4,1995,24,2011/9/28,,posaj001,posadjo01,16.08,l
+battlho01,1972,3,25,USA,MS,Howard,Battle,210,72,R,R,1995/9/5,1995,23,1999/10/3,,batth001,battlho01,4.08,s
+benarma01,1971,1,20,Nicaragua,Atlantico Sur,Marvin,Benard,180,70,L,L,1995/9/5,1995,24,2003/9/27,,benam001,benarma01,8.07,m
+lawtoma02,1971,11,30,USA,MS,Matt,Lawton,180,70,L,R,1995/9/5,1995,24,2006/5/16,,lawtm002,lawtoma02,10.7,l
+francma01,1969,8,19,USA,CA,Matt,Franco,200,74,L,R,1995/9/6,1995,26,2003/9/27,,franm001,francma01,8.06,m
+aurilri01,1971,9,2,USA,NY,Rich,Aurilia,170,72,R,R,1995/9/6,1995,24,2009/10/4,,aurir001,aurilri01,14.09,l
+andujlu01,1972,11,22,D.R.,Peravia,Luis,Andujar,175,74,R,R,1995/9/8,1995,23,1998/6/28,,andul001,andujlu01,2.81,s
+sefcike01,1971,2,10,USA,IL,Kevin,Sefcik,175,71,R,R,1995/9/8,1995,24,2001/6/1,,sefck001,sefcike01,5.73,s
+hattesc01,1969,12,14,USA,OR,Scott,Hatteberg,192,73,L,R,1995/9/8,1995,26,2008/5/25,,hatts001,hattesc01,12.72,l
+giovaed01,1969,3,4,USA,CA,Ed,Giovanola,170,70,L,R,1995/9/10,1995,26,1999/8/25,,giove001,giovaed01,3.96,s
+mayda02,1972,6,13,USA,CA,Darrell,May,170,74,L,L,1995/9/10,1995,23,2005/7/15,,may-d002,mayda02,9.85,m
+powelja04,1972,1,9,USA,MS,Jay,Powell,220,76,R,R,1995/9/10,1995,23,2005/7/29,,powej001,powelja04,9.89,m
+perezed02,1968,5,4,Venezuela,Zulia,Eddie,Perez,175,73,R,R,1995/9/10,1995,27,2005/9/27,,peree002,perezed02,10.05,l
+pozoar01,1973,8,24,D.R.,Distrito Nacional,Arquimedez,Pozo,160,70,R,R,1995/9/12,1995,22,1997/9/28,,pozoa001,pozoar01,2.05,s
+wadete01,1973,1,25,USA,SC,Terrell,Wade,205,75,L,L,1995/9/12,1995,22,1998/9/26,,wadet001,wadete01,3.04,s
+sprinde01,1965,2,12,USA,CA,Dennis,Springer,185,70,R,R,1995/9/13,1995,30,2002/5/26,,sprid001,sprinde01,6.7,m
+hayneji01,1972,9,5,USA,GA,Jimmy,Haynes,185,76,R,R,1995/9/13,1995,23,2004/5/4,,haynj001,hayneji01,8.65,m
+wagnebi02,1971,7,25,USA,VA,Billy,Wagner,180,70,L,L,1995/9/13,1995,24,2010/10/3,,wagnb001,wagnebi02,15.07,l
+hajekda01,1967,10,14,USA,CA,Dave,Hajek,165,70,R,R,1995/9/15,1995,28,1996/9/26,,hajed001,hajekda01,1.03,s
+benitya01,1972,10,5,P.R.,,Yamil,Benitez,195,74,R,R,1995/9/15,1995,23,1998/9/27,,beniy001,benitya01,3.04,s
+estessh01,1973,2,18,USA,CA,Shawn,Estes,185,74,R,L,1995/9/16,1995,22,2008/9/24,,estes001,estessh01,13.03,l
+gilesbr02,1971,1,20,USA,CA,Brian,Giles,195,71,L,L,1995/9/16,1995,24,2009/6/18,,gileb002,gilesbr02,13.76,l
+raabebr01,1967,11,5,USA,MN,Brian,Raabe,170,69,R,R,1995/9/17,1995,28,1997/9/28,,raabb001,raabebr01,2.03,s
+creekdo01,1969,3,1,USA,VA,Doug,Creek,205,70,L,L,1995/9/17,1995,26,2005/10/1,,creed001,creekdo01,10.05,l
+mccraqu01,1970,8,16,USA,NC,Quinton,McCracken,170,67,B,R,1995/9/17,1995,25,2006/7/5,,mccrq001,mccraqu01,10.81,l
+counscr01,1970,8,21,USA,IN,Craig,Counsell,180,72,L,R,1995/9/17,1995,25,2011/9/28,,counc001,counscr01,16.04,l
+ochoaal01,1972,3,29,USA,FL,Alex,Ochoa,175,72,R,R,1995/9/18,1995,23,2002/9/29,,ochoa001,ochoaal01,7.04,m
+persoro01,1969,10,6,USA,MA,Robert,Person,180,72,R,R,1995/9/18,1995,26,2003/6/7,,persr001,persoro01,7.72,m
+benesal01,1972,1,21,USA,IN,Alan,Benes,215,77,R,R,1995/9/19,1995,23,2003/5/28,,benea002,benesal01,7.69,m
+roajo01,1971,10,11,USA,MI,Joe,Roa,195,73,R,R,1995/9/20,1995,24,2004/9/22,,roa-j001,roajo01,9.01,m
+bennega01,1972,4,17,USA,IL,Gary,Bennett,190,72,R,R,1995/9/24,1995,23,2008/5/18,,benng001,bennega01,12.66,l
+britoti01,1972,5,28,D.R.,Distrito Nacional,Tilson,Brito,170,72,R,R,1996/4/1,1996,24,1997/9/28,,britt001,britoti01,1.49,s
+keaglgr01,1971,6,28,USA,NY,Greg,Keagle,185,73,R,R,1996/4/1,1996,25,1998/5/26,,keagg001,keaglgr01,2.15,s
+ordonre01,1971,1,11,Cuba,La Habana,Rey,Ordonez,160,69,R,R,1996/4/1,1996,25,2004/7/17,,ordor001,ordonre01,8.3,m
+kendaja01,1974,6,26,USA,CA,Jason,Kendall,181,72,R,R,1996/4/1,1996,22,2010/8/30,,kendj001,kendaja01,14.42,l
+ariasge01,1972,3,12,USA,AZ,George,Arias,190,71,R,R,1996/4/2,1996,24,1999/7/28,,ariag001,ariasge01,3.32,s
+mormaal01,1969,1,6,USA,NC,Alvin,Morman,210,75,L,L,1996/4/2,1996,27,1999/10/2,,morma001,mormaal01,3.5,s
+naultda01,1970,1,6,USA,CA,Dan,Naulty,211,78,R,R,1996/4/2,1996,26,1999/10/3,,nauld001,naultda01,3.5,s
+cordofr01,1972,4,26,Mexico,Veracruz,Francisco,Cordova,190,70,R,R,1996/4/2,1996,24,2000/8/8,,cordf001,cordofr01,4.35,s
+lukema01,1971,2,26,USA,CA,Matt,Luke,220,77,L,L,1996/4/3,1996,25,1999/9/30,,lukem001,lukema01,3.49,s
+montgst01,1970,12,25,USA,CA,Steve,Montgomery,210,76,R,R,1996/4/3,1996,26,2000/7/17,,monts001,montgst01,4.29,s
+barteki01,1972,7,21,USA,NE,Kimera,Bartee,175,72,B,R,1996/4/3,1996,24,2001/8/3,,bartk001,barteki01,5.34,s
+houstty01,1971,1,17,USA,NV,Tyler,Houston,210,74,L,R,1996/4/3,1996,25,2003/8/29,,houst001,houstty01,7.41,m
+myersro01,1969,6,26,USA,IL,Rodney,Myers,200,73,R,R,1996/4/3,1996,27,2004/6/1,,myerr002,myersro01,8.17,m
+kiescbr01,1972,6,6,USA,TX,Brooks,Kieschnick,225,76,L,R,1996/4/3,1996,24,2004/10/3,,kiesb001,kiescbr01,8.51,m
+fasansa01,1971,8,10,USA,IL,Sal,Fasano,220,74,R,R,1996/4/3,1996,25,2008/9/14,,fasas001,fasansa01,12.46,l
+paniajo01,1973,8,20,D.R.,Peravia,Jose,Paniagua,185,74,R,R,1996/4/4,1996,23,2003/9/9,,panij001,paniajo01,7.44,m
+wilsopa02,1973,3,28,USA,FL,Paul,Wilson,235,77,R,R,1996/4/4,1996,23,2005/5/16,,wilsp001,wilsopa02,9.12,m
+fernaos01,1968,11,4,Cuba,Holguin,Osvaldo,Fernandez,190,74,R,R,1996/4/5,1996,28,2001/8/8,,ferno001,fernaos01,5.35,s
+osikke01,1968,10,22,USA,NY,Keith,Osik,185,72,R,R,1996/4/5,1996,28,2005/10/1,,osikk001,osikke01,9.5,m
+busbymi01,1972,12,27,USA,CA,Mike,Busby,210,76,R,R,1996/4/7,1996,24,1999/7/8,,busbm001,busbymi01,3.25,s
+foxan01,1971,1,12,USA,CA,Andy,Fox,205,76,L,R,1996/4/7,1996,25,2004/10/3,,fox-a001,foxan01,8.5,m
+adamsjo02,1971,7,2,USA,CA,Joel,Adamson,185,76,L,L,1996/4/10,1996,25,1998/4/26,,adamj001,adamsjo02,2.04,s
+jensema01,1972,12,14,USA,CA,Marcus,Jensen,195,76,B,R,1996/4/14,1996,24,2002/6/23,,jensm001,jensema01,6.19,m
+holbeaa01,1973,1,9,USA,CA,Aaron,Holbert,160,72,R,R,1996/4/14,1996,23,2005/10/2,,holba001,holbeaa01,9.47,m
+cairomi01,1974,5,4,Venezuela,Anzoategui,Miguel,Cairo,225,73,R,R,1996/4/17,1996,22,2012/10/3,,cairm001,cairomi01,16.47,l
+jenniro01,1972,4,11,Singapore,,Robin,Jennings,205,74,L,L,1996/4/18,1996,24,2001/10/7,,jennr001,jenniro01,5.47,s
+muellbi02,1971,3,17,USA,MO,Bill,Mueller,175,71,B,R,1996/4/18,1996,25,2006/5/11,,muelb001,muellbi02,10.07,l
+zuberjo01,1969,12,10,USA,CA,Jon,Zuber,190,73,L,L,1996/4/19,1996,27,1998/9/27,,zubej001,zuberjo01,2.44,s
+selbybi01,1970,6,11,USA,AL,Bill,Selby,190,69,L,R,1996/4/19,1996,26,2003/5/25,,selbb001,selbybi01,7.1,m
+graffto01,1972,6,6,USA,NY,Tony,Graffanino,175,73,R,R,1996/4/19,1996,24,2009/4/26,,graft001,graffto01,13.03,l
+sheetan01,1971,11,19,USA,LA,Andy,Sheets,180,74,R,R,1996/4/22,1996,25,2002/9/25,,sheea001,sheetan01,6.43,m
+mottoch01,1971,10,15,USA,GA,Chad,Mottola,220,75,R,R,1996/4/23,1996,25,2006/7/26,,mottc001,mottoch01,10.26,l
+crespfe01,1973,3,5,P.R.,,Felipe,Crespo,195,71,B,R,1996/4/28,1996,23,2001/9/28,,cresf001,crespfe01,5.42,s
+canizja01,1973,7,4,USA,TX,Jay,Canizaro,170,69,R,R,1996/4/28,1996,23,2002/5/31,,canij001,canizja01,6.09,m
+vanrybe01,1971,8,9,USA,IN,Ben,VanRyn,185,77,L,L,1996/5/9,1996,25,1998/9/26,,vanrb001,vanrybe01,2.38,s
+renteed01,1976,8,7,Colombia,Atlantico,Edgar,Renteria,200,73,R,R,1996/5/10,1996,20,2011/9/28,,rente001,renteed01,15.39,l
+wilkima01,1970,10,21,USA,OH,Marc,Wilkins,205,71,R,R,1996/5/11,1996,26,2001/8/29,,wilkm001,wilkima01,5.3,s
+janzema01,1973,5,31,USA,FL,Marty,Janzen,197,75,R,R,1996/5/12,1996,23,1997/9/27,,janzm001,janzema01,1.38,s
+millira02,1973,12,30,Curacao,,Ralph,Milliard,170,71,R,R,1996/5/12,1996,23,1998/9/27,,millr003,millira02,2.38,s
+valdepe01,1973,6,29,P.R.,,Pedro,Valdes,205,73,L,L,1996/5/15,1996,23,2000/10/1,,valdp001,valdepe01,4.38,s
+telemam01,1974,1,19,D.R.,La Altagracia,Amaury,Telemaco,220,76,R,R,1996/5/16,1996,22,2005/7/1,,telea001,telemam01,9.13,m
+dyeje01,1974,1,28,USA,CA,Jermaine,Dye,210,76,R,R,1996/5/17,1996,22,2009/10/4,,dye-j001,dyeje01,13.39,l
+willish01,1971,3,10,USA,CA,Shad,Williams,185,72,R,R,1996/5/18,1996,25,1997/7/22,,wills001,willish01,1.18,s
+yanes01,1975,6,22,D.R.,El Seibo,Esteban,Yan,255,76,R,R,1996/5/20,1996,21,2006/7/6,,yan-e001,yanes01,10.13,l
+ruebema01,1969,10,16,USA,OH,Matt,Ruebel,180,74,L,L,1996/5/21,1996,27,1998/7/4,,ruebm001,ruebema01,2.12,s
+malavjo01,1971,5,31,Venezuela,Sucre,Jose,Malave,212,74,R,R,1996/5/23,1996,25,1997/8/30,,malaj001,malavjo01,1.27,s
+casanra01,1972,8,23,P.R.,,Raul,Casanova,200,72,B,R,1996/5/24,1996,24,2008/6/8,,casar001,casanra01,12.05,l
+mendora01,1972,6,15,Panama,,Ramiro,Mendoza,154,74,R,R,1996/5/25,1996,24,2005/9/1,,mendr001,mendora01,9.28,m
+chouibo01,1972,5,1,Philippines,,Bobby,Chouinard,188,73,R,R,1996/5/26,1996,24,2001/9/9,,choub001,chouibo01,5.29,s
+thompju02,1973,3,8,USA,TX,Justin,Thompson,215,76,L,L,1996/5/27,1996,23,2005/8/25,,thomj003,thompju02,9.25,m
+blaziro01,1971,7,30,USA,PA,Ron,Blazier,215,78,R,R,1996/5/31,1996,25,1997/9/28,,blazr001,blaziro01,1.33,s
+barroto01,1966,8,17,USA,OR,Tony,Barron,185,72,R,R,1996/6/2,1996,30,1997/9/28,,barrt003,barroto01,1.32,s
+batisto01,1973,12,9,D.R.,Puerto Plata,Tony,Batista,180,72,R,R,1996/6/3,1996,23,2007/9/30,,batit001,batisto01,11.33,l
+mashoda01,1969,10,31,P.R.,,Damon,Mashore,195,71,R,R,1996/6/5,1996,27,1998/7/11,,mashd001,mashoda01,2.1,s
+glanvdo01,1970,8,25,USA,NJ,Doug,Glanville,170,74,R,R,1996/6/9,1996,26,2004/10/3,,gland001,glanvdo01,8.32,m
+adamswi02,1972,10,8,USA,NM,Willie,Adams,215,79,R,R,1996/6/11,1996,24,1997/8/14,,adamw001,adamswi02,1.18,s
+coppiro01,1974,3,19,USA,TX,Rocky,Coppinger,245,77,R,R,1996/6/11,1996,22,2001/10/4,,coppr001,coppiro01,5.32,s
+rosadjo01,1974,11,9,USA,NJ,Jose,Rosado,175,72,L,L,1996/6/12,1996,22,2000/4/30,,rosaj001,rosadjo01,3.88,s
+martima02,1970,10,3,D.R.,San Pedro de Macoris,Manny,Martinez,169,74,R,R,1996/6/14,1996,26,1999/10/3,,martm002,martima02,3.3,s
+erstada01,1974,6,4,USA,ND,Darin,Erstad,195,74,L,L,1996/6/14,1996,22,2009/10/4,,erstd001,erstada01,13.32,l
+brownbr01,1971,6,22,USA,CA,Brant,Brown,220,75,L,L,1996/6/15,1996,25,2000/8/29,,browb003,brownbr01,4.21,s
+dosteda01,1970,10,8,USA,IN,David,Doster,185,70,R,R,1996/6/16,1996,26,1999/10/3,,dostd001,dosteda01,3.3,s
+bevilbr01,1971,9,5,USA,TX,Brian,Bevil,190,75,R,R,1996/6/17,1996,25,1998/9/26,,bevib001,bevilbr01,2.28,s
+myersro02,1973,1,14,USA,TX,Rod,Myers,190,72,L,L,1996/6/21,1996,23,1997/9/28,,myerr003,myersro02,1.27,s
+levinal01,1968,5,22,USA,IL,Al,Levine,180,75,L,R,1996/6/22,1996,28,2005/6/10,,levia001,levinal01,8.97,m
+desseel01,1971,1,13,Mexico,Sonora,Elmer,Dessens,200,71,R,R,1996/6/24,1996,25,2010/10/2,,desse001,desseel01,14.28,l
+serafda01,1974,1,25,USA,CA,Dan,Serafini,190,73,B,L,1996/6/25,1996,22,2007/9/13,,serad001,serafda01,11.22,l
+damicje01,1975,12,27,USA,FL,Jeff,D'Amico,250,79,R,R,1996/6/28,1996,21,2004/5/10,,damij001,d'amije01,7.87,m
+montgra01,1969,8,8,USA,NY,Ray,Montgomery,195,75,R,R,1996/7/3,1996,27,1998/6/16,,montr003,montgra01,1.95,s
+wrighja01,1974,12,24,USA,OK,Jamey,Wright,240,78,R,R,1996/7/3,1996,22,2014/9/27,,wrigj001,wrighja01,18.25,l
+suzukma01,1975,5,31,Japan,Hyogo,Mac,Suzuki,195,75,R,R,1996/7/7,1996,21,2002/6/28,,suzum001,suzukma01,5.98,s
+witasja01,1972,8,28,USA,MD,Jay,Witasick,205,76,R,R,1996/7/7,1996,24,2007/9/26,,witaj001,witasja01,11.23,l
+holtzmi01,1972,10,10,USA,VA,Mike,Holtz,172,69,L,L,1996/7/11,1996,24,2006/5/16,,holtm001,holtzmi01,9.85,m
+graveda01,1973,8,7,Viet Nam,,Danny,Graves,200,71,R,R,1996/7/13,1996,23,2006/5/9,,gravd001,graveda01,9.83,m
+echevan01,1971,5,25,USA,CT,Angel,Echevarria,215,76,R,R,1996/7/15,1996,25,2002/9/29,,echea001,echevan01,6.21,m
+cruzja01,1973,1,28,USA,CA,Jacob,Cruz,175,72,L,L,1996/7/18,1996,23,2005/10/2,,cruzj003,cruzja01,9.21,m
+peterch01,1972,1,28,USA,KY,Chris,Peters,162,73,L,L,1996/7/19,1996,24,2001/5/28,,petec001,peterch01,4.86,s
+allenje01,1972,1,11,USA,IN,Jermaine,Allensworth,178,72,R,R,1996/7/23,1996,24,1999/5/29,,allej001,allenje01,2.85,s
+macharo01,1973,6,3,Venezuela,Carabobo,Robert,Machado,205,73,R,R,1996/7/24,1996,23,2004/9/18,,machr001,macharo01,8.16,m
+stephga01,1972,1,2,USA,MD,Garrett,Stephenson,195,76,R,R,1996/7/25,1996,24,2003/9/17,,stepg001,stephga01,7.15,m
+patteda04,1971,2,17,USA,CA,Danny,Patterson,175,72,R,R,1996/7/26,1996,25,2004/8/1,,pattd001,patteda04,8.02,m
+mcmilbi01,1971,11,17,USA,NM,Billy,McMillon,172,71,L,L,1996/7/26,1996,25,2004/10/3,,mcmib001,mcmilbi01,8.19,m
+greento02,1971,5,8,USA,GA,Todd,Greene,195,70,R,R,1996/7/30,1996,25,2006/10/1,,greet003,greento02,10.18,l
+verasda01,1973,3,13,D.R.,Santiago,Dario,Veras,165,74,R,R,1996/7/31,1996,23,1998/9/21,,verad001,verasda01,2.14,s
+relafde01,1973,9,16,USA,GA,Desi,Relaford,155,68,B,R,1996/8/1,1996,23,2007/7/28,,relad001,relafde01,10.99,l
+rolensc01,1975,4,4,USA,IN,Scott,Rolen,245,76,R,R,1996/8/1,1996,21,2012/10/3,,roles001,rolensc01,16.18,l
+ibanera01,1972,6,2,USA,NY,Raul,Ibanez,225,74,L,R,1996/8/1,1996,24,2014/9/28,,ibanr001,ibanera01,18.17,l
+beamotr01,1974,2,11,USA,TX,Trey,Beamon,195,75,L,R,1996/8/4,1996,22,1998/9/27,,beamt001,beamotr01,2.15,s
+beechma01,1972,1,20,USA,CA,Matt,Beech,190,74,L,L,1996/8/8,1996,24,1998/8/9,,beecm001,beechma01,2,s
+castilu01,1975,9,12,D.R.,San Pedro de Macoris,Luis,Castillo,145,71,B,R,1996/8/8,1996,21,2010/10/3,,castl001,castilu01,14.16,l
+heredfe01,1975,6,18,D.R.,Barahona,Felix,Heredia,180,72,L,L,1996/8/9,1996,21,2005/4/18,,heref001,heredfe01,8.7,m
+wallade01,1971,9,1,USA,CA,Derek,Wallace,200,75,R,R,1996/8/13,1996,25,1999/9/4,,walld003,wallade01,3.06,s
+harripe01,1972,9,23,USA,SC,Pep,Harris,185,74,R,R,1996/8/14,1996,24,1998/9/27,,harrp001,harripe01,2.12,s
+moliniz01,1971,6,3,USA,NY,Izzy,Molina,200,73,R,R,1996/8/15,1996,25,2002/5/6,,molii001,moliniz01,5.73,s
+jonesan01,1977,4,23,Curacao,,Andruw,Jones,225,73,R,R,1996/8/15,1996,19,2012/10/3,,jonea002,jonesan01,16.15,l
+lacyke01,1972,8,7,USA,TN,Kerry,Lacy,195,74,R,R,1996/8/16,1996,24,1997/8/21,,lacyk001,lacyke01,1.01,s
+rodrine01,1971,3,4,D.R.,San Pedro de Macoris,Nerio,Rodriguez,220,73,R,R,1996/8/16,1996,25,2002/8/29,,rodrn001,rodrine01,6.04,m
+mageewe01,1972,8,3,USA,MS,Wendell,Magee,225,72,R,R,1996/8/16,1996,24,2002/9/1,,magew001,mageewe01,6.05,m
+mosquju01,1972,1,29,Panama,Panama,Julio,Mosquera,185,72,R,R,1996/8/17,1996,24,2005/6/8,,mosqj001,mosquju01,8.81,m
+nortogr01,1972,7,6,USA,CA,Greg,Norton,190,73,B,R,1996/8/18,1996,24,2009/10/4,,nortg001,nortogr01,13.14,l
+dicksja01,1973,3,30,CAN,ON,Jason,Dickson,190,72,L,R,1996/8/21,1996,23,2000/5/14,,dickj001,dicksja01,3.73,s
+milletr01,1972,11,2,USA,OH,Travis,Miller,205,75,R,L,1996/8/25,1996,24,2002/6/25,,millt001,milletr01,5.84,s
+leshebr01,1971,3,5,Belgium,Antwerp,Brian,Lesher,205,77,R,L,1996/8/25,1996,25,2002/9/28,,leshb001,leshebr01,6.1,m
+mirabdo01,1970,10,18,USA,AZ,Doug,Mirabelli,205,73,R,R,1996/8/27,1996,26,2007/9/30,,mirad001,mirabdo01,11.1,l
+mccargr01,1968,10,30,USA,CT,Greg,McCarthy,195,74,L,L,1996/8/28,1996,28,1998/9/23,,mccag001,mccargr01,2.07,s
+youngdm01,1973,10,11,USA,MS,Dmitri,Young,295,74,B,R,1996/8/29,1996,23,2008/7/11,,yound001,youngdm01,11.87,l
+walketo04,1973,5,25,USA,CA,Todd,Walker,180,72,L,R,1996/8/30,1996,23,2007/5/10,,walkt002,walketo04,10.7,l
+chavera01,1973,3,17,Venezuela,Carabobo,Raul,Chavez,245,71,R,R,1996/8/30,1996,23,2009/9/24,,chavr001,chavera01,13.08,l
+perezne01,1973,6,2,D.R.,Santo Domingo,Neifi,Perez,175,72,B,R,1996/8/31,1996,23,2007/7/5,,peren001,perezne01,10.85,l
+garcino01,1973,7,23,USA,CA,Nomar,Garciaparra,165,72,R,R,1996/8/31,1996,23,2009/10/4,,garcn001,garcino01,13.1,l
+ludwier01,1971,12,14,USA,MO,Eric,Ludwick,210,77,R,R,1996/9/1,1996,25,1999/4/8,,ludwe001,ludwier01,2.6,s
+holtch01,1971,9,18,USA,TX,Chris,Holt,205,76,R,R,1996/9/1,1996,25,2001/10/2,,holtc001,holtch01,5.09,s
+difelmi01,1969,5,28,USA,PA,Mike,Difelice,205,74,R,R,1996/9/1,1996,27,2008/4/18,,difem001,difelmi01,11.64,l
+abreubo01,1974,3,11,Venezuela,Aragua,Bobby,Abreu,220,72,L,R,1996/9/1,1996,22,2014/9/28,,abreb001,abreubo01,18.08,l
+kingsge01,1976,8,20,Aruba,,Gene,Kingsale,190,75,B,R,1996/9/3,1996,20,2003/6/8,,kingg001,kingsge01,6.76,m
+guerrwi01,1974,10,24,D.R.,Peravia,Wilton,Guerrero,145,71,B,R,1996/9/3,1996,22,2004/10/1,,guerw001,guerrwi01,8.08,m
+milletr02,1973,5,29,USA,KY,Trever,Miller,200,75,R,L,1996/9/4,1996,23,2011/9/24,,millt002,milletr02,15.06,l
+robermi01,1970,10,9,USA,CT,Mike,Robertson,180,72,L,L,1996/9/6,1996,26,1998/6/26,,robem001,robermi01,1.8,s
+pritcch01,1970,1,31,USA,CA,Chris,Pritchett,185,76,L,R,1996/9/6,1996,26,2000/5/23,,pritc001,pritcch01,3.71,s
+loiseri01,1972,1,12,USA,WI,Rich,Loiselle,225,77,R,R,1996/9/7,1996,24,2001/10/6,,loisr001,loiseri01,5.08,s
+dunnto01,1970,7,29,USA,OK,Todd,Dunn,220,77,R,R,1996/9/8,1996,26,1997/9/25,,dunnt001,dunnto01,1.05,s
+hardtja01,1971,9,15,USA,WI,Jason,Hardtke,175,70,B,R,1996/9/8,1996,25,1998/7/13,,hardj002,hardtja01,1.84,s
+bredebr01,1971,9,13,USA,IL,Brent,Brede,190,76,L,L,1996/9/8,1996,25,1998/9/27,,bredb001,bredebr01,2.05,s
+joneste02,1971,2,15,USA,AL,Terry,Jones,165,70,B,R,1996/9/8,1996,25,2001/10/7,,jonet004,joneste02,5.08,s
+madurca01,1974,9,5,Aruba,,Calvin,Maduro,175,72,R,R,1996/9/8,1996,22,2002/6/4,,maduc001,madurca01,5.74,s
+banksbr01,1970,9,28,USA,AZ,Brian,Banks,200,75,B,R,1996/9/9,1996,26,2003/9/28,,bankb001,banksbr01,7.05,m
+diazei01,1972,12,28,Panama,Chiriqui,Einar,Diaz,165,70,R,R,1996/9/9,1996,24,2006/9/16,,diaze002,diazei01,10.02,l
+silvajo01,1973,12,19,Mexico,Baja California,Jose,Silva,235,78,R,R,1996/9/10,1996,23,2002/9/28,,silvj001,silvajo01,6.05,m
+beckero01,1972,7,16,USA,TX,Robbie,Beckett,240,77,R,L,1996/9/12,1996,24,1997/9/26,,beckr003,beckero01,1.04,s
+brownke04,1973,4,21,USA,IN,Kevin,Brown,200,74,R,R,1996/9/12,1996,23,2002/9/22,,browk004,brownke04,6.03,m
+ellisro02,1970,12,15,USA,LA,Robert,Ellis,220,77,R,R,1996/9/12,1996,26,2003/8/16,,ellir001,ellisro02,6.93,m
+jacksda04,1973,8,16,USA,CA,Damian,Jackson,160,70,R,R,1996/9/12,1996,23,2006/8/23,,jackd003,jacksda04,9.95,m
+carlsda01,1970,1,26,USA,OR,Dan,Carlson,185,73,R,R,1996/9/13,1996,26,1999/6/23,,carld001,carlsda01,2.78,s
+mckeewa01,1972,1,17,USA,NC,Walt,McKeel,200,74,R,R,1996/9/14,1996,24,2002/7/27,,mckew001,mckeewa01,5.87,s
+fyhrimi01,1969,12,9,USA,CA,Mike,Fyhrie,190,74,R,R,1996/9/14,1996,27,2002/9/28,,fyhrm001,fyhrimi01,6.04,m
+spiezsc01,1972,9,21,USA,IL,Scott,Spiezio,195,74,B,R,1996/9/14,1996,24,2007/9/30,,spies001,spiezsc01,11.05,l
+greench02,1971,1,23,USA,FL,Charlie,Greene,170,73,R,R,1996/9/15,1996,25,2000/7/1,,greec002,greench02,3.79,s
+estalbo02,1974,8,23,USA,FL,Bobby,Estalella,200,73,R,R,1996/9/17,1996,22,2004/6/6,,estab001,estalbo02,7.72,m
+guerrvl01,1975,2,9,D.R.,Peravia,Vladimir,Guerrero,235,75,R,R,1996/9/19,1996,21,2011/9/28,,guerv001,guerrvl01,15.03,l
+nixontr01,1974,4,11,USA,NC,Trot,Nixon,195,73,L,L,1996/9/21,1996,22,2008/6/28,,nixot001,nixontr01,11.78,l
+moehlbr01,1971,12,31,USA,NC,Brian,Moehler,195,75,R,R,1996/9/22,1996,25,2010/7/7,,moehb001,moehlbr01,13.8,l
+bootyjo01,1975,4,29,USA,MS,Josh,Booty,210,75,R,R,1996/9/24,1996,21,1998/4/11,,bootj001,bootyjo01,1.55,s
+delgawi01,1972,7,15,D.R.,San Cristobal,Wilson,Delgado,145,71,B,R,1996/9/24,1996,24,2004/10/3,,delgw001,delgawi01,8.03,m
+hernali01,1975,2,20,Cuba,,Livan,Hernandez,245,74,R,R,1996/9/24,1996,21,2012/9/29,,hernl003,hernali01,16.02,l
+larkian01,1974,6,27,USA,WA,Andy,Larkin,175,76,R,R,1996/9/29,1996,22,2000/9/10,,larka001,larkian01,3.95,s
+biesest01,1967,8,4,USA,MO,Steve,Bieser,170,70,L,R,1997/4/1,1997,30,1998/7/28,,biess001,biesest01,1.32,s
+orieke01,1972,9,1,USA,PA,Kevin,Orie,210,76,R,R,1997/4/1,1997,25,2002/9/26,,oriek001,orieke01,5.49,s
+trammbu01,1971,11,6,USA,TN,Bubba,Trammell,205,75,R,R,1997/4/1,1997,26,2003/6/22,,tramb001,trammbu01,6.23,m
+reesepo01,1973,6,10,USA,SC,Pokey,Reese,180,71,R,R,1997/4/1,1997,24,2004/10/3,,reesp001,reesepo01,7.51,m
+cruzde01,1972,11,6,D.R.,Peravia,Deivi,Cruz,160,71,R,R,1997/4/1,1997,25,2005/10/2,,cruzd001,cruzde01,8.51,m
+guilljo01,1976,5,17,D.R.,San Cristobal,Jose,Guillen,165,71,R,R,1997/4/1,1997,21,2010/10/3,,guilj001,guilljo01,13.52,l
+castica02,1975,4,21,USA,MA,Carlos,Castillo,240,74,R,R,1997/4/2,1997,22,2001/7/22,,castc002,castica02,4.31,s
+martito02,1970,5,21,USA,SC,Tom,Martin,200,73,L,L,1997/4/2,1997,27,2007/7/19,,martt003,martito02,10.3,l
+klinest02,1972,8,22,USA,PA,Steve,Kline,200,74,B,L,1997/4/2,1997,25,2007/9/25,,klins002,klinest02,10.49,l
+walkeja01,1971,7,1,USA,TN,Jamie,Walker,190,74,L,L,1997/4/2,1997,26,2009/6/2,,walkj001,walkeja01,12.18,l
+cunnawi01,1974,4,24,USA,NY,Will,Cunnane,200,73,R,R,1997/4/3,1997,23,2004/5/7,,cunnw001,cunnawi01,7.1,m
+ritchto01,1971,11,7,USA,VA,Todd,Ritchie,205,75,R,R,1997/4/3,1997,26,2004/9/30,,ritct001,ritchto01,7.5,m
+rincori01,1970,4,13,Mexico,Veracruz,Ricardo,Rincon,190,70,L,L,1997/4/3,1997,27,2008/9/25,,rincr001,rincori01,11.49,l
+brownem01,1974,12,29,USA,IL,Emil,Brown,195,74,R,R,1997/4/3,1997,23,2009/6/6,,browe001,brownem01,12.18,l
+morrima01,1974,8,9,USA,NY,Matt,Morris,210,77,R,R,1997/4/4,1997,23,2008/4/26,,morrm001,morrima01,11.07,l
+saundto01,1974,4,29,USA,MD,Tony,Saunders,205,74,L,L,1997/4/5,1997,23,1999/5/26,,saunt001,saundto01,2.14,s
+hasegsh01,1968,8,1,Japan,,Shigetoshi,Hasegawa,160,71,R,R,1997/4/5,1997,29,2005/9/28,,hases001,hasegsh01,8.49,m
+tatisra01,1973,1,5,D.R.,Monte Cristi,Ramon,Tatis,185,74,L,L,1997/4/6,1997,24,1998/9/27,,tatir001,tatisra01,1.48,s
+johnsmi02,1975,10,3,CAN,AB,Mike,Johnson,175,74,L,R,1997/4/6,1997,22,2001/4/24,,johnm002,johnsmi02,4.05,s
+haltesh01,1969,11,8,USA,MD,Shane,Halter,160,70,R,R,1997/4/6,1997,28,2004/10/3,,halts001,haltesh01,7.5,m
+santaju01,1973,1,20,D.R.,San Pedro de Macoris,Julio,Santana,175,72,R,R,1997/4/6,1997,24,2006/5/12,,santj001,santaju01,9.1,m
+ruschgl01,1974,11,7,USA,WA,Glendon,Rusch,170,74,L,L,1997/4/6,1997,23,2009/5/13,,ruscg001,ruschgl01,12.11,l
+johnsru01,1973,2,22,USA,LA,Russ,Johnson,185,70,R,R,1997/4/8,1997,24,2005/7/15,,johnr006,johnsru01,8.27,m
+lathach01,1973,5,26,USA,ID,Chris,Latham,195,72,B,R,1997/4/12,1997,24,2003/4/18,,lathc001,lathach01,6.02,m
+stullev01,1971,8,24,USA,KS,Everett,Stull,200,75,R,R,1997/4/14,1997,26,2002/5/15,,stule001,stullev01,5.09,s
+powelda01,1973,8,25,USA,CA,Dante,Powell,185,74,R,R,1997/4/15,1997,24,2001/10/7,,powed002,powelda01,4.48,s
+raggibr01,1972,9,17,USA,CA,Brady,Raggio,210,76,R,R,1997/4/15,1997,25,2003/7/12,,raggb001,raggibr01,6.24,m
+lowede01,1973,6,1,USA,MI,Derek,Lowe,230,78,R,R,1997/4/26,1997,24,2013/5/19,,lowed001,lowede01,16.07,l
+malonse01,1971,5,25,USA,RI,Sean,Maloney,210,79,R,R,1997/4/28,1997,26,1998/9/26,,malos001,malonse01,1.41,s
+leede02,1975,9,6,USA,CA,Derrek,Lee,240,77,R,R,1997/4/28,1997,22,2011/9/28,,lee-d002,leede02,14.43,l
+dejeami01,1970,9,28,USA,LA,Mike,DeJean,205,74,R,R,1997/5/2,1997,27,2006/4/7,,dejem001,dejeami01,8.94,m
+staniro01,1972,3,10,USA,SC,Rob,Stanifer,205,75,R,R,1997/5/3,1997,25,2000/6/19,,stanr001,staniro01,3.13,s
+dunwoto01,1975,4,11,USA,IN,Todd,Dunwoody,190,73,L,L,1997/5/10,1997,22,2002/6/21,,dunwt001,dunwoto01,5.12,s
+thomsjo01,1973,10,1,USA,MS,John,Thomson,175,75,R,R,1997/5/11,1997,24,2007/7/1,,thomj005,thomsjo01,10.15,l
+carpech01,1975,4,27,USA,NH,Chris,Carpenter,230,78,R,R,1997/5/12,1997,22,2012/10/2,,carpc002,carpech01,15.4,l
+gulanmi01,1970,12,18,USA,OH,Mike,Gulan,192,73,R,R,1997/5/14,1997,27,2001/10/6,,gulam001,gulanmi01,4.4,s
+mcdilal01,1971,8,23,USA,MS,Allen,McDill,155,72,L,L,1997/5/15,1997,26,2001/10/2,,mcdia001,mcdilal01,4.39,s
+brownad01,1974,2,7,USA,MS,Adrian,Brown,175,72,B,R,1997/5/16,1997,23,2006/5/23,,browa001,brownad01,9.02,m
+polcoke01,1970,6,28,USA,NY,Kevin,Polcovich,170,69,R,R,1997/5/17,1997,27,1998/9/22,,polck001,polcoke01,1.35,s
+sheldsc01,1968,11,28,USA,IN,Scott,Sheldon,185,75,R,R,1997/5/18,1997,29,2001/10/5,,shels001,sheldsc01,4.39,s
+jonesbo04,1972,4,11,USA,NJ,Bobby,Jones,185,72,R,L,1997/5/18,1997,25,2004/4/11,,joneb004,jonesbo04,6.9,m
+foulkke01,1972,10,19,USA,SD,Keith,Foulke,195,72,R,R,1997/5/21,1997,25,2008/9/18,,foulk001,foulkke01,11.34,l
+murrahe01,1973,4,19,USA,OH,Heath,Murray,205,76,L,L,1997/5/24,1997,24,2002/7/21,,murrh001,murrahe01,5.16,s
+perisma01,1975,6,8,USA,IA,Matt,Perisho,175,72,L,L,1997/5/27,1997,22,2005/9/2,,perim001,perisma01,8.27,m
+gonzaje01,1975,1,8,Venezuela,Zulia,Geremi,Gonzalez,200,74,R,R,1997/5/27,1997,22,2006/9/26,,gonzj003,gonzaje01,9.34,m
+tomkobr01,1973,4,7,USA,OH,Brett,Tomko,220,76,R,R,1997/5/27,1997,24,2011/5/24,,tomkb001,tomkobr01,14,l
+cruzjo02,1974,4,19,P.R.,,Jose,Cruz,190,72,B,R,1997/5/31,1997,23,2008/6/5,,cruzj004,cruzjo02,11.02,l
+gilbesh01,1965,3,12,USA,NJ,Shawn,Gilbert,170,69,R,R,1997/6/2,1997,32,2000/7/2,,gilbs001,gilbesh01,3.08,s
+beltrri01,1969,11,13,Mexico,Baja California,Rigo,Beltran,185,71,L,L,1997/6/2,1997,28,2004/4/28,,beltr001,beltrri01,6.91,m
+delluda01,1973,10,31,USA,LA,David,Dellucci,180,70,L,L,1997/6/3,1997,24,2009/7/22,,delld001,delluda01,12.14,l
+mcdonja02,1972,3,20,USA,CA,Jason,McDonald,175,68,B,R,1997/6/5,1997,25,2000/6/9,,mcdoj002,mcdonja02,3.01,s
+mcguiry01,1971,11,23,USA,CA,Ryan,McGuire,210,74,L,L,1997/6/5,1997,26,2002/7/14,,mcgur001,mcguiry01,5.11,s
+santijo03,1974,11,5,P.R.,,Jose,Santiago,200,75,R,R,1997/6/7,1997,23,2005/8/9,,santj002,santijo03,8.18,m
+erdosto01,1973,11,21,USA,PA,Todd,Erdos,205,73,R,R,1997/6/8,1997,24,2001/10/5,,erdot001,erdosto01,4.33,s
+vidrojo01,1974,8,27,P.R.,,Jose,Vidro,175,71,B,R,1997/6/8,1997,23,2008/8/4,,vidrj001,vidrojo01,11.16,l
+abbotje01,1972,8,17,USA,GA,Jeff,Abbott,190,74,R,L,1997/6/10,1997,25,2001/9/29,,abboj002,abbotje01,4.31,s
+bellhma01,1974,8,23,USA,MA,Mark,Bellhorn,195,73,B,R,1997/6/10,1997,23,2007/9/30,,bellm002,bellhma01,10.31,l
+brockch01,1970,2,5,USA,FL,Chris,Brock,175,72,R,R,1997/6/11,1997,27,2002/9/28,,brocc001,brockch01,5.3,s
+gomeswa01,1973,1,15,USA,VA,Wayne,Gomes,215,74,R,R,1997/6/13,1997,24,2002/9/28,,gomew001,gomeswa01,5.3,s
+valdema02,1974,11,19,Mexico,Sonora,Mario,Valdez,215,73,L,L,1997/6/15,1997,23,2001/6/22,,valdm002,valdema02,4.02,s
+alfonan01,1972,4,16,D.R.,La Romana,Antonio,Alfonseca,250,77,R,R,1997/6/17,1997,25,2007/9/23,,alfoa001,alfonan01,10.27,l
+velanjo01,1975,1,12,Venezuela,Distrito Federal,Jorge,Velandia,160,69,R,R,1997/6/20,1997,22,2008/7/13,,velaj001,velanjo01,11.07,l
+booneaa01,1973,3,9,USA,CA,Aaron,Boone,190,74,R,R,1997/6/20,1997,24,2009/10/4,,boona001,booneaa01,12.3,l
+friasha01,1973,12,5,D.R.,San Cristobal,Hanley,Frias,160,72,B,R,1997/6/21,1997,24,2000/10/1,,friah001,friasha01,3.28,s
+wrighja02,1975,12,29,USA,CA,Jaret,Wright,220,74,R,R,1997/6/24,1997,22,2007/4/29,,wrigj002,wrighja02,9.85,m
+rigbybr01,1973,5,14,USA,WI,Brad,Rigby,203,78,R,R,1997/6/28,1997,24,2000/6/24,,rigbb001,rigbybr01,2.99,s
+collilo01,1973,8,21,USA,IL,Lou,Collier,170,70,R,R,1997/6/28,1997,24,2004/9/30,,colll001,collilo01,7.26,m
+escobke01,1976,4,11,Venezuela,Vargas,Kelvim,Escobar,205,73,R,R,1997/6/29,1997,21,2009/6/6,,escok001,escobke01,11.95,l
+piscima01,1970,8,7,USA,NJ,Marc,Pisciotta,240,77,R,R,1997/6/30,1997,27,1999/7/7,,piscm001,piscima01,2.02,s
+whisema01,1971,6,8,USA,CA,Matt,Whisenant,215,75,R,L,1997/7/4,1997,26,2000/5/29,,whism001,whisema01,2.9,s
+irabuhi01,1969,5,5,Japan,,Hideki,Irabu,240,76,R,R,1997/7/10,1997,28,2002/7/12,,irabh001,irabuhi01,5.01,s
+kotsama01,1975,12,2,USA,CA,Mark,Kotsay,220,72,L,L,1997/7/11,1997,22,2013/9/29,,kotsm001,kotsama01,16.23,l
+cathemi01,1970,12,17,USA,CA,Mike,Cather,195,74,R,R,1997/7/13,1997,27,1999/4/12,,cathm001,cathemi01,1.75,s
+foxch02,1970,9,3,USA,CA,Chad,Fox,180,74,R,R,1997/7/13,1997,27,2009/5/9,,fox-c001,foxch02,11.83,l
+reyesde01,1977,4,19,Mexico,Sinaloa,Dennys,Reyes,250,75,R,L,1997/7/13,1997,20,2011/4/6,,reyed001,reyesde01,13.74,l
+millwke01,1974,12,24,USA,NC,Kevin,Millwood,230,76,R,R,1997/7/14,1997,23,2012/9/12,,millk004,millwke01,15.18,l
+cabrejo01,1972,3,24,D.R.,Santiago,Jose,Cabrera,205,72,R,R,1997/7/15,1997,25,2002/9/25,,cabrj001,cabrejo01,5.2,s
+romerma01,1967,10,29,USA,FL,Mandy,Romero,190,71,B,R,1997/7/15,1997,30,2003/8/24,,romem001,romerma01,6.11,m
+kubinti01,1972,1,20,USA,WA,Tim,Kubinski,205,76,L,L,1997/7/16,1997,25,1999/10/2,,kubit001,kubinti01,2.21,s
+deharri01,1970,3,21,USA,KS,Rick,DeHart,180,73,L,L,1997/7/16,1997,27,2003/6/8,,dehar001,deharri01,5.9,s
+cruziv01,1968,5,3,P.R.,,Ivan,Cruz,210,75,L,L,1997/7/18,1997,29,2002/9/27,,cruzi001,cruziv01,5.2,s
+faltest01,1972,1,28,USA,NY,Steve,Falteisek,200,74,R,R,1997/7/22,1997,25,1999/5/23,,falts001,faltest01,1.84,s
+rosebr01,1976,2,13,USA,MA,Brian,Rose,215,75,R,R,1997/7/25,1997,21,2001/5/30,,roseb002,rosebr01,3.85,s
+blanche01,1971,8,29,Venezuela,Distrito Federal,Henry,Blanco,220,71,R,R,1997/7/25,1997,26,2013/9/23,,blanh001,blanche01,16.18,l
+tatisfe01,1975,1,1,D.R.,San Pedro de Macoris,Fernando,Tatis,185,71,R,R,1997/7/26,1997,22,2010/7/4,,tatif001,tatisfe01,12.95,l
+woodast01,1975,5,15,USA,AL,Steve,Woodard,225,76,L,R,1997/7/28,1997,22,2003/5/7,,woods001,woodast01,5.78,s
+hanseje01,1972,8,19,USA,WA,Jed,Hansen,195,73,R,R,1997/7/29,1997,25,1999/9/22,,hansj001,hanseje01,2.15,s
+kingcu01,1970,10,25,USA,PA,Curtis,King,200,77,R,R,1997/8/1,1997,27,1999/6/20,,kingc001,kingcu01,1.88,s
+cruzne01,1972,9,13,D.R.,Puerto Plata,Nelson,Cruz,175,73,R,R,1997/8/1,1997,25,2003/7/9,,cruzn001,cruzne01,5.94,s
+eyresc01,1972,5,30,USA,CA,Scott,Eyre,160,73,L,L,1997/8/1,1997,25,2009/10/4,,eyres001,eyresc01,12.18,l
+greensc01,1974,6,9,USA,MO,Scarborough,Green,170,70,B,R,1997/8/2,1997,23,2000/10/1,,grees002,greensc01,3.17,s
+heltoto01,1973,8,20,USA,TN,Todd,Helton,220,74,L,L,1997/8/2,1997,24,2013/9/29,,heltt001,heltoto01,16.17,l
+aybarma01,1972,5,4,D.R.,Peravia,Manny,Aybar,165,73,R,R,1997/8/4,1997,25,2005/6/10,,aybam001,aybarma01,7.85,m
+riggsad01,1972,10,4,USA,OH,Adam,Riggs,195,72,R,R,1997/8/7,1997,25,2004/10/3,,rigga001,riggsad01,7.16,m
+cloudke01,1975,1,9,USA,MD,Ken,Cloude,200,73,R,R,1997/8/9,1997,22,1999/10/3,,clouk001,cloudke01,2.15,s
+milleda02,1969,10,13,USA,WI,Damian,Miller,202,75,R,R,1997/8/10,1997,28,2007/9/30,,milld002,milleda02,10.15,l
+gailled01,1970,8,13,USA,NJ,Eddie,Gaillard,180,73,R,R,1997/8/11,1997,27,1999/10/3,,gaile001,gailled01,2.15,s
+ligteke01,1971,5,11,USA,SD,Kerry,Ligtenberg,185,74,R,R,1997/8/12,1997,26,2005/5/29,,ligtk001,ligteke01,7.8,m
+bushho01,1972,11,12,USA,IL,Homer,Bush,180,70,R,R,1997/8/16,1997,25,2004/6/8,,bushh001,bushho01,6.82,m
+suttola01,1970,5,14,USA,CA,Larry,Sutton,175,71,L,L,1997/8/17,1997,27,2004/6/1,,suttl001,suttola01,6.79,m
+ojalaki01,1968,12,24,USA,MI,Kirt,Ojala,210,74,L,L,1997/8/18,1997,29,1999/5/4,,ojalk001,ojalaki01,1.71,s
+fordhto01,1974,2,20,USA,CA,Tom,Fordham,210,74,L,L,1997/8/19,1997,23,1998/8/30,,fordt001,fordhto01,1.03,s
+wallaje01,1976,4,12,USA,WV,Jeff,Wallace,240,74,L,L,1997/8/21,1997,21,2001/10/3,,wallj001,wallaje01,4.12,s
+bennesh01,1972,4,10,Australia,South Australia,Shayne,Bennett,200,77,R,R,1997/8/22,1997,25,1999/8/15,,benns001,bennesh01,1.98,s
+avenbr01,1972,3,4,USA,TX,Bruce,Aven,180,69,R,R,1997/8/27,1997,25,2002/5/27,,avenb001,avenbr01,4.75,s
+nunezab01,1976,3,16,D.R.,Distrito Nacional,Abraham,Nunez,200,71,B,R,1997/8/27,1997,21,2008/6/8,,nunea001,nunezab01,10.79,l
+johnsja02,1973,10,27,USA,CA,Jason,Johnson,225,78,R,R,1997/8/27,1997,24,2008/9/26,,johnj007,johnsja02,11.09,l
+tejadmi01,1974,5,25,D.R.,Peravia,Miguel,Tejada,220,69,R,R,1997/8/27,1997,23,2013/8/10,,tejam001,tejadmi01,15.96,l
+lowese01,1971,3,29,USA,TX,Sean,Lowe,205,74,R,R,1997/8/29,1997,26,2003/7/30,,lowes001,lowese01,5.92,s
+ordonma01,1974,1,28,Venezuela,Distrito Federal,Magglio,Ordonez,215,72,R,R,1997/8/29,1997,23,2011/9/27,,ordom001,ordonma01,14.09,l
+colemmi01,1975,8,16,USA,TN,Michael,Coleman,180,71,R,R,1997/9/1,1997,22,2001/5/16,,colem001,colemmi01,3.71,s
+hidalri01,1975,6,28,Venezuela,Distrito Federal,Richard,Hidalgo,220,75,R,R,1997/9/1,1997,22,2005/8/4,,hidar001,hidalri01,7.93,m
+simonra01,1975,5,25,Curacao,,Randall,Simon,180,72,L,L,1997/9/1,1997,22,2006/9/30,,simor001,simonra01,9.08,m
+evansto01,1974,7,9,USA,WA,Tom,Evans,200,73,R,R,1997/9/2,1997,23,2000/5/10,,evant001,evansto01,2.69,s
+thurmmi01,1973,7,22,USA,OR,Mike,Thurman,190,76,R,R,1997/9/2,1997,24,2002/9/14,,thurm002,thurmmi01,5.04,s
+fullmbr01,1975,1,17,USA,CA,Brad,Fullmer,185,73,L,R,1997/9/2,1997,22,2004/7/24,,fullb001,fullmbr01,6.9,m
+encarju01,1976,3,8,D.R.,San Juan,Juan,Encarnacion,160,74,R,R,1997/9/2,1997,21,2007/8/30,,encaj001,encarju01,10,l
+mendoca01,1974,11,4,Venezuela,Bolivar,Carlos,Mendoza,160,71,L,L,1997/9/3,1997,23,2000/9/30,,mendc001,mendoca01,3.08,s
+martife01,1974,5,18,D.R.,Maria Trinidad Sanchez,Felix,Martinez,170,72,B,R,1997/9/3,1997,23,2001/9/30,,martf001,martife01,4.08,s
+grievbe01,1976,5,4,USA,TX,Ben,Grieve,200,76,L,R,1997/9/3,1997,21,2005/10/2,,grieb001,grievbe01,8.08,m
+ordazlu01,1975,8,12,Venezuela,Zulia,Luis,Ordaz,170,71,R,R,1997/9/3,1997,22,2006/4/3,,ordal001,ordazlu01,8.59,m
+marreel01,1973,11,17,Cuba,La Habana,Eli,Marrero,180,73,R,R,1997/9/3,1997,24,2006/8/8,,marre001,marreel01,8.93,m
+catalfr01,1974,4,27,USA,NY,Frank,Catalanotto,170,72,L,R,1997/9/3,1997,23,2010/5/10,,cataf001,catalfr01,12.69,l
+cabreor01,1974,11,2,Colombia,Bolivar,Orlando,Cabrera,195,70,R,R,1997/9/3,1997,23,2011/9/23,,cabro001,cabreor01,14.06,l
+almanca01,1973,11,6,D.R.,Santiago,Carlos,Almanzar,166,74,R,R,1997/9/4,1997,24,2005/4/30,,almac001,almanca01,7.66,m
+butleri01,1973,5,1,CAN,ON,Rich,Butler,180,73,L,R,1997/9/6,1997,24,1999/8/4,,butlr002,butleri01,1.91,s
